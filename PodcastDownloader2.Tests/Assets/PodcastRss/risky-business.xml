@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://risky.biz/feeds/risky-business" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+ <title>Risky Business</title>
+ <link>http://risky.biz/feeds/risky-business</link>
+ <description>Risky Business primary podcast.</description>
+ <language>en</language>
+ <itunes:image href="http://risky.biz/sites/all/themes/riskybiz/images/rbipod2.jpg" />
+ <itunes:author>Risky.Biz</itunes:author>
+ <itunes:owner> <itunes:name>Patrick Gray</itunes:name>
+ <itunes:email>podcast@risky.biz</itunes:email>
+</itunes:owner>
+<item>
+ <title>Risky Business #436 -- Do you know your supply chain is horrible?</title>
+ <link>http://risky.biz/RB436</link>
+ <description>&lt;p&gt;On this week&#039;s show we&#039;re chatting with Fitbit security director Sasha Biskup and his colleague Marc Bown about how to build secure embedded devices from  insecure components. During the development phase of some Fitbit products, the Fitbit security team has discovered some hideous vulnerabilities that could have compromised security downstream. They&#039;ve been able to mitigate these issues, but they worry other embedded device manufacturers aren&#039;t even looking at the security implications of their suppliers&#039; mistakes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB436&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB436.mp3" length="37160115" type="audio/mpeg" />
+ <itunes:subtitle>Fitbit&amp;#039;s security director, engineer join the show...</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we&#039;re chatting with Fitbit security director Sasha Biskup  
+and his colleague Marc Bown about how to build secure embedded devices from  
+insecure components. During the development phase of some Fitbit products,  
+the Fitbit security team has discovered some hideous vulnerabilities that  
+could have compromised security downstream. They&#039;ve been able to mitigate  
+these issues, but they worry other embedded device manufacturers aren&#039;t even  
+looking at the security implications of their suppliers&#039; mistakes.
+
+read more [1]
+
+
+[1] http://risky.biz/RB436
+</itunes:summary>
+ <pubDate>Thu, 17 Nov 2016 04:50:45 +0000</pubDate>
+ <guid>http://media.risky.biz/RB436.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #435 -- Former NSA general counsel Stewart Baker talks Trump</title>
+ <link>http://risky.biz/RB435</link>
+ <description>&lt;p&gt;In this week&#039;s show we&#039;re going to have a chat with former NSA general counsel and cyberlaw podcast host Stewart A Baker. We&#039;ll get his thoughts on what a Trump presidency could mean when it comes to cyber security.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB435&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB435.mp3" length="38235647" type="audio/mpeg" />
+ <itunes:subtitle>What will a Trump presidency mean for teh cybarz?</itunes:subtitle>
+ <itunes:summary>In this week&#039;s show we&#039;re going to have a chat with former NSA general  
+counsel and cyberlaw podcast host Stewart A Baker. We&#039;ll get his thoughts on  
+what a Trump presidency could mean when it comes to cyber security.
+
+read more [1]
+
+
+[1] http://risky.biz/RB435
+</itunes:summary>
+ <pubDate>Thu, 10 Nov 2016 04:26:38 +0000</pubDate>
+ <guid>http://media.risky.biz/RB435.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #434 -- Mirai v2 is coming, Shadowbrokers latest and more</title>
+ <link>http://risky.biz/RB434</link>
+ <description>&lt;p&gt;On this week&#039;s show we chat with Errata Security&#039;s Robert Graham about a ridiculous non-story that had readers in the USA convinced that Slate magazine had uncovered a covert communication channel between Donald Trump and a state-linked Russian bank. The basis of this jaw-dropping conclusion? Cherry-picked DNS query logs. We&#039;ll find out why that story was total, utter bullshit in this week&#039;s feature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB434&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB434.mp3" length="32827570" type="audio/mpeg" />
+ <itunes:subtitle>PLUS Special Guest Rob Graham on Trump&amp;#039;s &amp;quot;covert email server&amp;quot;...</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we chat with Errata Security&#039;s Robert Graham about a  
+ridiculous non-story that had readers in the USA convinced that Slate  
+magazine had uncovered a covert communication channel between Donald Trump  
+and a state-linked Russian bank. The basis of this jaw-dropping conclusion?  
+Cherry-picked DNS query logs. We&#039;ll find out why that story was total, utter  
+bullshit in this week&#039;s feature.
+
+read more [1]
+
+
+[1] http://risky.biz/RB434
+</itunes:summary>
+ <pubDate>Thu, 03 Nov 2016 03:25:25 +0000</pubDate>
+ <guid>http://media.risky.biz/RB434.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #433 -- Mirai ain&#039;t going anywhere</title>
+ <link>http://risky.biz/RB433</link>
+ <description>&lt;p&gt;On this week&#039;s show we&#039;re taking a look at the Great DDoSSening of 2016! Yep, we&#039;ll be having a look at the attacks against Dyn, but perhaps more importantly we&#039;ll be asking the question: With a zillion perma-owned things out there able to launch some pretty serious DDoS attacks: What now? &lt;/p&gt;
+&lt;p&gt;IoT device security specialist Stephen Ridley will join us in this week&#039;s feature slot to discuss that.&lt;/p&gt;
+&lt;p&gt;This week&#039;s sponsor interview is a cracker. We&#039;ll be chatting with Cyalnce chief research officer Jon Miller about how the hell you&#039;re supposed to benchmark AV these days. It&#039;s actually trickier than you&#039;d think, for reasons we&#039;ll get into later. We also talk about managing false positives and hit on a few other topics in that one. Jon&#039;s ex ISS X-Force, he&#039;s been around the traps for a long time and really knows what he&#039;s talking about. That&#039;s a good interview... big thanks to Cylance for sponsoring this week&#039;s show.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB433&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB433.mp3" length="47591595" type="audio/mpeg" />
+ <itunes:subtitle>Long refresh cycles on IoT mean we have a real problem...</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we&#039;re taking a look at the Great DDoSSening of 2016! Yep,  
+we&#039;ll be having a look at the attacks against Dyn, but perhaps more  
+importantly we&#039;ll be asking the question: With a zillion perma-owned things  
+out there able to launch some pretty serious DDoS attacks: What now?
+
+IoT device security specialist Stephen Ridley will join us in this week&#039;s  
+feature slot to discuss that.
+
+This week&#039;s sponsor interview is a cracker. We&#039;ll be chatting with Cyalnce  
+chief research officer Jon Miller about how the hell you&#039;re supposed to  
+benchmark AV these days. It&#039;s actually trickier than you&#039;d think, for reasons  
+we&#039;ll get into later. We also talk about managing false positives and hit on  
+a few other topics in that one. Jon&#039;s ex ISS X-Force, he&#039;s been around the  
+traps for a long time and really knows what he&#039;s talking about. That&#039;s a good  
+interview... big thanks to Cylance for sponsoring this week&#039;s show.
+
+read more [1]
+
+
+[1] http://risky.biz/RB433
+</itunes:summary>
+ <pubDate>Thu, 27 Oct 2016 04:59:20 +0000</pubDate>
+ <guid>http://media.risky.biz/RB433.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #432 -- We need to talk about John</title>
+ <link>http://risky.biz/RB432</link>
+ <description>&lt;p&gt;On this week&#039;s show we&#039;re taking a look at the business dealings of John McAfee. Earlier today the NYSE announced the company that arranged to hire McAfee, MGT Capital, would be de-listed from the NYSE: MKT small cap exchange. This follows a class action investor lawsuit and the unearthing of a remuneration agreement between the company and McAfee that have lead some to suggest the whole company could be a pump and dump scam.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB432&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB432.mp3" length="42668789" type="audio/mpeg" />
+ <itunes:subtitle>MGT Capital to be delisted as McAfee denies fresh murder and rape allegations...</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we&#039;re taking a look at the business dealings of John  
+McAfee. Earlier today the NYSE announced the company that arranged to hire  
+McAfee, MGT Capital, would be de-listed from the NYSE: MKT small cap  
+exchange. This follows a class action investor lawsuit and the unearthing of  
+a remuneration agreement between the company and McAfee that have lead some  
+to suggest the whole company could be a pump and dump scam.
+
+read more [1]
+
+
+[1] http://risky.biz/RB432
+</itunes:summary>
+ <pubDate>Thu, 20 Oct 2016 05:01:48 +0000</pubDate>
+ <guid>http://media.risky.biz/RB432.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #431 -- What should the USA do about Russian hacks?</title>
+ <link>http://risky.biz/RB431</link>
+ <description>&lt;p&gt;On this week&#039;s show we&#039;re taking a look at what the hell the USA should do in response to Russia&#039;s hacks against the DNC. A few days ago the Director of National Intelligence and DHS issued a joint statement that officially puts blame for the DNC hacks squarely on Russia. Since then the Internets have been in meltdown over what exactly should be done in response.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB431&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB431.mp3" length="44487068" type="audio/mpeg" />
+ <itunes:subtitle>A pow-wow with policy expert Mara Tam...</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we&#039;re taking a look at what the hell the USA should do in  
+response to Russia&#039;s hacks against the DNC. A few days ago the Director of  
+National Intelligence and DHS issued a joint statement that officially puts  
+blame for the DNC hacks squarely on Russia. Since then the Internets have  
+been in meltdown over what exactly should be done in response.
+
+read more [1]
+
+
+[1] http://risky.biz/RB431
+</itunes:summary>
+ <pubDate>Thu, 13 Oct 2016 05:03:59 +0000</pubDate>
+ <guid>http://media.risky.biz/RB431.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #430 -- LulzSec&#039;s Tflow talks NSA exploits, justice and remorse</title>
+ <link>http://risky.biz/RB430</link>
+ <description>&lt;p&gt;On this week&#039;s show we&#039;re catching up with Mustafa Al-Bassam. He&#039;s a lovely young chap from England who was one upon a time one of the LulzSec crew. Like all the other guys in that crew he got busted, but he didn&#039;t spend any time in prison and these days he&#039;s doing really well. He&#039;s finished his undergrad, works with some blockchain technology and is about to start a PhD. He joins us this week to talk about his in depth analysis of the Shadowbrokers dump, as well as to reflect on his crimes. As you&#039;ll hear, he has some regrets.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB430&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB430.mp3" length="38329173" type="audio/mpeg" />
+ <itunes:subtitle>Mustafa Al-Bassam joins Risky Business...</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we&#039;re catching up with Mustafa Al-Bassam. He&#039;s a lovely  
+young chap from England who was one upon a time one of the LulzSec crew. Like  
+all the other guys in that crew he got busted, but he didn&#039;t spend any time  
+in prison and these days he&#039;s doing really well. He&#039;s finished his undergrad,  
+works with some blockchain technology and is about to start a PhD. He joins  
+us this week to talk about his in depth analysis of the Shadowbrokers dump,  
+as well as to reflect on his crimes. As you&#039;ll hear, he has some regrets.
+
+read more [1]
+
+
+[1] http://risky.biz/RB430
+</itunes:summary>
+ <pubDate>Thu, 06 Oct 2016 04:47:06 +0000</pubDate>
+ <guid>http://media.risky.biz/RB430.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #429 -- Krebs dumped, satellite hacking, election insecurity and more</title>
+ <link>http://risky.biz/RB429</link>
+ <description>&lt;p&gt;This week we&#039;ll be having a chat to Paul Marsh about a recent report from UK think tank Chatham House that says there&#039;s a looming cyber security crisis about to wreak havoc on the satellite ecosystem. But as you&#039;ll hear, Paul thinks the concerns are somewhat overhyped.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB429&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB429.mp3" length="48397196" type="audio/mpeg" />
+ <itunes:subtitle>Paul Marsh, Space Rogue and Metlstorm join the show...</itunes:subtitle>
+ <itunes:summary>This week we&#039;ll be having a chat to Paul Marsh about a recent report from UK  
+think tank Chatham House that says there&#039;s a looming cyber security crisis  
+about to wreak havoc on the satellite ecosystem. But as you&#039;ll hear, Paul  
+thinks the concerns are somewhat overhyped.
+
+read more [1]
+
+
+[1] http://risky.biz/RB429
+</itunes:summary>
+ <pubDate>Thu, 29 Sep 2016 05:51:15 +0000</pubDate>
+ <guid>http://media.risky.biz/RB429.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #428 -- Cross-platform Tor Browser pwnership with Ryan Duff</title>
+ <link>http://risky.biz/RB428</link>
+ <description>&lt;p&gt;On this week&#039;s show we&#039;ll be chatting with security researcher Ryan Duff about the rabbit hole that is the Tor Browser Bundle certificate pinning bug. The bug itself is interesting, but the questions it raises about how suitable Tor is for genuinely critical use are, you know, substantial. That&#039;s a really, really interesting chat with Ryan Duff, coming up after the news.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB428&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB428.mp3" length="38416752" type="audio/mpeg" />
+ <itunes:subtitle>Putting your life in TBB&amp;#039;s hands is maybe not so wise...</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we&#039;ll be chatting with security researcher Ryan Duff  
+about the rabbit hole that is the Tor Browser Bundle certificate pinning bug.  
+The bug itself is interesting, but the questions it raises about how suitable  
+Tor is for genuinely critical use are, you know, substantial. That&#039;s a  
+really, really interesting chat with Ryan Duff, coming up after the news.
+
+read more [1]
+
+
+[1] http://risky.biz/RB428
+</itunes:summary>
+ <pubDate>Thu, 22 Sep 2016 06:55:12 +0000</pubDate>
+ <guid>http://media.risky.biz/RB428.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #427 -- Cahill law partner Brad Bondi on MedSec suit</title>
+ <link>http://risky.biz/RB427</link>
+ <description>&lt;p&gt;We have a great feature interview this week. Risky Business contributor Brian Donohue spoke with Cahill law firm partner Brad Bondi about the suit St Jude Medical has brought against MedSec and Muddy Waters over the short-sell of the medical device manufacturer&#039;s shares. That is an illuminating chat that certainly gave me an understanding of where this all could be heading, both in terms of the upcoming trial and how likely it is we&#039;ll see similar stuff in the future.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB427&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB427.mp3" length="46372147" type="audio/mpeg" />
+ <itunes:subtitle>PLUS: Cylance CEO Stuart McClure on the OPM hack...</itunes:subtitle>
+ <itunes:summary>We have a great feature interview this week. Risky Business contributor Brian  
+Donohue spoke with Cahill law firm partner Brad Bondi about the suit St Jude  
+Medical has brought against MedSec and Muddy Waters over the short-sell of  
+the medical device manufacturer&#039;s shares. That is an illuminating chat that  
+certainly gave me an understanding of where this all could be heading, both  
+in terms of the upcoming trial and how likely it is we&#039;ll see similar stuff  
+in the future.
+
+read more [1]
+
+
+[1] http://risky.biz/RB427
+</itunes:summary>
+ <pubDate>Thu, 15 Sep 2016 05:54:08 +0000</pubDate>
+ <guid>http://media.risky.biz/RB427.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #426 -- House Oversight Committee drops OPM breach report PLUS St Jude sues MedSec</title>
+ <link>http://risky.biz/RB426</link>
+ <description>&lt;p&gt;In this week&#039;s feature interview we chat with Stephen Ridley about all things IoT. Stephen is a researcher turned entrepreneur and he&#039;ll be along to talk about the platform consolidation we&#039;re going to see when it comes to &quot;things&quot;. Once that settles, he argues, we&#039;ll get a better idea of the security risks we should really, actually be worried about.&lt;/p&gt;
+&lt;p&gt;In this week&#039;s sponsor interview we&#039;re chatting with Simon Galbally at Senetas.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB426&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB426.mp3" length="38112762" type="audio/mpeg" />
+ <itunes:subtitle>Mark Piper joins Risky Business with the week&amp;#039;s security news...</itunes:subtitle>
+ <itunes:summary>In this week&#039;s feature interview we chat with Stephen Ridley about all things  
+IoT. Stephen is a researcher turned entrepreneur and he&#039;ll be along to talk  
+about the platform consolidation we&#039;re going to see when it comes to  
+&quot;things&quot;. Once that settles, he argues, we&#039;ll get a better idea of the  
+security risks we should really, actually be worried about.
+
+In this week&#039;s sponsor interview we&#039;re chatting with Simon Galbally at  
+Senetas.
+
+read more [1]
+
+
+[1] http://risky.biz/RB426
+</itunes:summary>
+ <pubDate>Thu, 08 Sep 2016 05:12:43 +0000</pubDate>
+ <guid>http://media.risky.biz/RB426.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #425 -- MedSec CEO Justine Bone on the Muddy Waters short</title>
+ <link>http://risky.biz/RB425</link>
+ <description>&lt;p&gt;On this week&#039;s show we&#039;ve landed what looks to be a fairly exclusive interview -- at least as far as the tech press is concerned. Justine Bone will be joining us to explain why the company she works with, MedSec, decided to use vulnerability information on implantable medical devices to drive a short-selling scheme in partnership with Muddy Waters.&lt;/p&gt;
+&lt;p&gt;This week&#039;s show is sponsored by Tenable Network Security. We&#039;re doing something a bit different in this week&#039;s sponsor interview -- we&#039;re chatting with one of Tenable&#039;s customers, City of San Diego CISO Gary Hayslip.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB425&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB425.mp3" length="41709260" type="audio/mpeg" />
+ <itunes:subtitle>It&amp;#039;s a... different... path to disclosing bugs, that&amp;#039;s for sure... </itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we&#039;ve landed what looks to be a fairly exclusive  
+interview -- at least as far as the tech press is concerned. Justine Bone  
+will be joining us to explain why the company she works with, MedSec, decided  
+to use vulnerability information on implantable medical devices to drive a  
+short-selling scheme in partnership with Muddy Waters.
+
+This week&#039;s show is sponsored by Tenable Network Security. We&#039;re doing  
+something a bit different in this week&#039;s sponsor interview -- we&#039;re chatting  
+with one of Tenable&#039;s customers, City of San Diego CISO Gary Hayslip.
+
+read more [1]
+
+
+[1] http://risky.biz/RB425
+</itunes:summary>
+ <pubDate>Thu, 01 Sep 2016 06:01:44 +0000</pubDate>
+ <guid>http://media.risky.biz/RB425.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #424 -- Jess Frazelle on Docker. So hot right now. </title>
+ <link>http://risky.biz/RB424</link>
+ <description>&lt;p&gt;On this week&#039;s show we chat with Jessie Frazelle. Jessie is a former Docker maintainer who now works at Google on all things &quot;containery&quot;. So we talk to her about what&#039;s up with containers, basically, and where the security pitfalls are. Like it or not, containers are likely going to be used in your environment, so getting to know them is a must. That&#039;s this week&#039;s feature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB424&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB424.mp3" length="40269838" type="audio/mpeg" />
+ <itunes:subtitle>PLUS! News with Grugq...</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we chat with Jessie Frazelle. Jessie is a former Docker  
+maintainer who now works at Google on all things &quot;containery&quot;. So we talk to  
+her about what&#039;s up with containers, basically, and where the security  
+pitfalls are. Like it or not, containers are likely going to be used in your  
+environment, so getting to know them is a must. That&#039;s this week&#039;s feature.
+
+read more [1]
+
+
+[1] http://risky.biz/RB424
+</itunes:summary>
+ <pubDate>Thu, 25 Aug 2016 04:05:32 +0000</pubDate>
+ <guid>http://media.risky.biz/RB424.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #423 -- ShadowBrokers PLUS how2pwn Apple&#039;s Secure Enclave</title>
+ <link>http://risky.biz/RB423</link>
+ <description>&lt;p&gt;This week&#039;s feature interview is incredible. We&#039;re speaking with David Wang from Azimuth Security. He, his colleague Tarjei Mandt and Mat Solnik of OffCell Research delivered an absolutely blockbuster talk at Black Hat. I didn&#039;t see the talk at the time but I got a chance to review the slides and oh-my-god I can&#039;t believe this one got so little attention.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB423&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB423.mp3" length="42783289" type="audio/mpeg" />
+ <itunes:subtitle>What a time to be alive...</itunes:subtitle>
+ <itunes:summary>This week&#039;s feature interview is incredible. We&#039;re speaking with David Wang  
+from Azimuth Security. He, his colleague Tarjei Mandt and Mat Solnik of  
+OffCell Research delivered an absolutely blockbuster talk at Black Hat. I  
+didn&#039;t see the talk at the time but I got a chance to review the slides and  
+oh-my-god I can&#039;t believe this one got so little attention.
+
+read more [1]
+
+
+[1] http://risky.biz/RB423
+</itunes:summary>
+ <pubDate>Thu, 18 Aug 2016 05:49:01 +0000</pubDate>
+ <guid>http://media.risky.biz/RB423.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #422 -- #CensusFail, news with Adam and MOAR</title>
+ <link>http://risky.biz/RB422</link>
+ <description>&lt;p&gt;On this week&#039;s show we talk about the week&#039;s security news with Adam Boileau and I spill on what my sources have told me about #censusfail.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB422&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB422.mp3" length="41337607" type="audio/mpeg" />
+ <itunes:subtitle>You can&amp;#039;t make this stuff up.</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we talk about the week&#039;s security news with Adam Boileau  
+and I spill on what my sources have told me about #censusfail.
+
+read more [1]
+
+
+[1] http://risky.biz/RB422
+</itunes:summary>
+ <pubDate>Thu, 11 Aug 2016 08:28:47 +0000</pubDate>
+ <guid>http://media.risky.biz/RB422.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #421 -- Las Vegas edition with Dan Guido, Andy Greenberg and Zane Lackey</title>
+ <link>http://risky.biz/RB421</link>
+ <description>&lt;p&gt;On this week&#039;s show we speak with Signal Sciences&#039; co-founder Zane Lackey about hackers building defensive tools and software companies. Dan Guido and Andy Greenberg talk about car hacking and the week&#039;s security news, and Wade Woolwine of Rapid7 is in the sponsor slot talking about EDR/IDR software.&lt;/p&gt;
+&lt;p&gt;Links to everything are in this week&#039;s &lt;a href=&#039;http://risky.biz/RB421_notes&#039;&gt;show notes&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <enclosure url="http://media.risky.biz/RB421.mp3" length="35390981" type="audio/mpeg" />
+ <itunes:subtitle>PLUS: Rapid7&amp;#039;s Wade Woolwine in the sponsor chair!</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we speak with Signal Sciences&#039; co-founder Zane Lackey  
+about hackers building defensive tools and software companies. Dan Guido and  
+Andy Greenberg talk about car hacking and the week&#039;s security news, and Wade  
+Woolwine of Rapid7 is in the sponsor slot talking about EDR/IDR software.
+
+Links to everything are in this week&#039;s
+show notes
+.
+
+</itunes:summary>
+ <pubDate>Fri, 05 Aug 2016 19:18:01 +0000</pubDate>
+ <guid>http://media.risky.biz/RB421.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #420 -- What we don&#039;t know about Watergate 2.0</title>
+ <link>http://risky.biz/RB420</link>
+ <description>&lt;p&gt;On this week&#039;s show we&#039;re taking a look at the DNC leaks, but don&#039;t worry, we won&#039;t be getting bogged down in the same old angles. Instead, we&#039;re going to chat to Lorenzo Franceschi-Bicchierai from VICE motherboard about his experience in interviewing the Guccifer 2 persona. &lt;/p&gt;
+&lt;p&gt;Then we&#039;ll hear from Kevin Poulsen about what these latest developments mean for Wikileaks. It&#039;s a topic you&#039;re probably sick of hearing about this week, but stick with us, we&#039;ve got some new angles, and they&#039;re relevant.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB420&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB420.mp3" length="42079413" type="audio/mpeg" />
+ <itunes:subtitle>In Soviet Russia, shark jumps you!</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we&#039;re taking a look at the DNC leaks, but don&#039;t worry, we  
+won&#039;t be getting bogged down in the same old angles. Instead, we&#039;re going to  
+chat to Lorenzo Franceschi-Bicchierai from VICE motherboard about his  
+experience in interviewing the Guccifer 2 persona.
+
+Then we&#039;ll hear from Kevin Poulsen about what these latest developments mean  
+for Wikileaks. It&#039;s a topic you&#039;re probably sick of hearing about this week,  
+but stick with us, we&#039;ve got some new angles, and they&#039;re relevant.
+
+read more [1]
+
+
+[1] http://risky.biz/RB420
+</itunes:summary>
+ <pubDate>Thu, 28 Jul 2016 17:13:51 +0000</pubDate>
+ <guid>http://media.risky.biz/RB420.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #419 -- Brian Krebs on future of bank cybercrime</title>
+ <link>http://risky.biz/RB419</link>
+ <description>&lt;p&gt;On this week&#039;s show we&#039;re catching up with Brian Krebs of Krebs On Security. He&#039;ll be talking to us about recent trends in cybercrime, and he&#039;s got a warning for security teams in the banking sector. He says things are going to get pretty sticky, and he&#039;s usually right on this stuff.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB419&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB419.mp3" length="39474379" type="audio/mpeg" />
+ <itunes:subtitle>PLUS: HD Moore talks bug bounties in the sponsor slot...</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we&#039;re catching up with Brian Krebs of Krebs On Security.  
+He&#039;ll be talking to us about recent trends in cybercrime, and he&#039;s got a  
+warning for security teams in the banking sector. He says things are going to  
+get pretty sticky, and he&#039;s usually right on this stuff.
+
+read more [1]
+
+
+[1] http://risky.biz/RB419
+</itunes:summary>
+ <pubDate>Thu, 21 Jul 2016 15:47:18 +0000</pubDate>
+ <guid>http://media.risky.biz/RB419.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #418 -- The rise of the crypto-Taliban</title>
+ <link>http://risky.biz/RB418</link>
+ <description>&lt;p&gt;On this week&#039;s show we&#039;re chatting with The Grugq about secure messaging. Facebook has announced it&#039;s rolling out an end-to-end encryption feature and the reaction to this wonderful announcement has been somewhat bizarre. We&#039;ll be talking to Grugq about why crypto absolutists are hating on companies that are rolling out non-default e2e features. We&#039;ll also talk about a couple of interesting case studies in which e2e encryption did absolutely nothing for the people using it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB418&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB418.mp3" length="46261845" type="audio/mpeg" />
+ <itunes:subtitle>Facebook launches e2e for messenger, gets shat on...</itunes:subtitle>
+ <itunes:summary>On this week&#039;s show we&#039;re chatting with The Grugq about secure messaging.  
+Facebook has announced it&#039;s rolling out an end-to-end encryption feature and  
+the reaction to this wonderful announcement has been somewhat bizarre. We&#039;ll  
+be talking to Grugq about why crypto absolutists are hating on companies that  
+are rolling out non-default e2e features. We&#039;ll also talk about a couple of  
+interesting case studies in which e2e encryption did absolutely nothing for  
+the people using it.
+
+read more [1]
+
+
+[1] http://risky.biz/RB418
+</itunes:summary>
+ <pubDate>Thu, 14 Jul 2016 16:34:54 +0000</pubDate>
+ <guid>http://media.risky.biz/RB418.mp3</guid>
+</item>
+<item>
+ <title>Risky Business #417 -- PlayPen ruling to let FBI off leash?</title>
+ <link>http://risky.biz/RB417</link>
+ <description>&lt;p&gt;In this week&#039;s feature interview we&#039;re chatting with Stanford&#039;s very own Jennifer Granick about a recent ruling in a Virginia court that appears to give the FBI permission to hack into any computer it wants, sans warrant. Well that&#039;s what the headlines are screaming, anyway. But as you&#039;ll hear, it&#039;s not quite that black and white.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://risky.biz/RB417&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <enclosure url="http://media.risky.biz/RB417.mp3" length="41211590" type="audio/mpeg" />
+ <itunes:subtitle>Jennifer Granick clarifies the recent PlayPen case ruling in Virginia...</itunes:subtitle>
+ <itunes:summary>In this week&#039;s feature interview we&#039;re chatting with Stanford&#039;s very own  
+Jennifer Granick about a recent ruling in a Virginia court that appears to  
+give the FBI permission to hack into any computer it wants, sans warrant.  
+Well that&#039;s what the headlines are screaming, anyway. But as you&#039;ll hear,  
+it&#039;s not quite that black and white.
+
+read more [1]
+
+
+[1] http://risky.biz/RB417
+</itunes:summary>
+ <pubDate>Thu, 07 Jul 2016 15:35:40 +0000</pubDate>
+ <guid>http://media.risky.biz/RB417.mp3</guid>
+</item>
+</channel>
+</rss>

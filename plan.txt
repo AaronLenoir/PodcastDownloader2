@@ -1,0 +1,35 @@
+One "Bus" actor that accepts messages from the actors and forwards them to the others.
+
+System-wide messages are defined (not per actor).
+
+                       Bus
+GetPodcast    --->      |
+PodcastComplete <---    |
+...
+
+System Wide Messages:
+
+	* GetPodcast(feedUrl, name)
+	* PodcastComplete(feedUrl)
+	* ParseRss(feedUrl)
+	* RssParsed(title, mp3url, ...)
+	* AskShouldDownloadEpisode(infoOnEpisode)
+	* PodcastDownloadStarted(nrOfEpisodes, ...)
+	* EpisodeStarted(...)
+	* EpisodeProgressed(...)
+	* EpisodeComplete(...)
+	* ...
+
+POC:
+
+	Download and parse the given RSS feeds to know which items to download.
+
+TODO:
+
+	* Actor to keep track of which episode are already downloaded
+	* Intermediate step to check whether an episode can be skipped or not
+	* Feedback to users
+		* Episode found
+		* Episode progressed
+		* Episode done
+	* Replace .NET RSS Parser with something else

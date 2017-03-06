@@ -1,0 +1,1044 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <channel>
+    <atom:link href="http://hwpod.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+    <title>The Hello World Podcast</title>
+    <pubDate>Mon, 18 Jul 2016 12:00:00 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Jul 2016 12:04:26 +0000</lastBuildDate>
+    <generator>Libsyn WebEngine 2.0</generator>
+    <link>http://hwpod.libsyn.com</link>
+    <language>en</language>
+    <copyright><![CDATA[2013-2016 Wilder Minds LLC]]></copyright>
+    <docs>http://hwpod.libsyn.com</docs>
+    <managingEditor>hwpod@wilderminds.com (hwpod@wilderminds.com)</managingEditor>
+    <itunes:summary><![CDATA[Not just another technical podcast. Shawn Wildermuth brings you his "Hello World" podcast where we learn about how your favorite developers tell their story of how they got started writing software!]]></itunes:summary>
+    <image>
+      <url>http://static.libsyn.com/p/assets/6/6/8/1/668156b95f327f69/logo_1400.jpg</url>
+      <title>The Hello World Podcast</title>
+      <link><![CDATA[http://hwpod.libsyn.com]]></link>
+    </image>
+    <itunes:author>Shawn Wildermuth</itunes:author>
+    <itunes:keywords>computers,developers,programming,software</itunes:keywords>
+    <itunes:category text="Technology"/>
+    <itunes:image href="http://static.libsyn.com/p/assets/6/6/8/1/668156b95f327f69/logo_1400.jpg" />
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:owner>
+      <itunes:name><![CDATA[Shawn Wildermuth]]></itunes:name>
+      <itunes:email>hwpod@wilderminds.com</itunes:email>
+    </itunes:owner>
+    <description><![CDATA[Not just another technical podcast. Shawn Wildermuth brings you the "Hello World Podcast" where we learn about how your favorite developers tell their story of how they got started writing software! ]]></description>
+    <itunes:subtitle><![CDATA[First computer, first language, first job.]]></itunes:subtitle>
+    <item>
+      <title>Episode 72: Rob Hale</title>
+      <pubDate>Mon, 18 Jul 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[676588a1ab7293b3ac07b84fd670c7db]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-72-rob-hale]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/8/e/9/9/8e99991882a05a55/rob-hale.jpg" />
+      <description><![CDATA[<p>Rob Hale has over 20 years of software development experience creating solutions for a variety of industries including health and human services, ecommerce, and energy. He currently serves as a Principle Software Engineer at Renewable NRG Systems in Hinesburg, Vermont (http://www.renewablenrgsystems.com/). Rob has presented to user groups in the northeast and the occasional small conference.<br /> Building effective communities and teams is a passion of Rob's. He is co-founder of the Vermont Code Camp (http://www.vtcodecamp.org/), co-organizer of the Vermont Coders Connection (http://www.meetup.com/VTCode/), and co-organizer/emcee of HackVT (http://www.hackvt.com/) an annual hackathon in the state of Vermont.<br /> Rob is the proud father of two sons and husband to his wonderful wife. Follow him on Twitter at @rob_hale_vt</p>]]></description>
+      <enclosure length="31717143" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode72.mp3" />
+      <itunes:duration>33:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Rob Hale has over 20 years of software development experience creating solutions for a variety of industries including health and human services, ecommerce, and energy. He currently serves as a Principle Software Engineer at Renewable NRG Systems in...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 71: Miguel de Icaza</title>
+      <pubDate>Mon, 11 Jul 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[d4267374408ba2633113292db0a53436]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-71-miguel-de-icaza]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/9/1/d/d/91ddbefe720cf577/miguel-de-icaza.jpg" />
+      <description><![CDATA[<p>Miguel de Icaza, co-founder and CTO of Ximian, is one of the foremost luminaries in the Linux development community and one of the world's most prominent advocates for Free Software. Before co-founding Ximian, Miguel was instrumental in the development of Linux for SPARC systems and the Midnight Commander file manager. Miguel is the founder and President of the GNOME Foundation. He was also the first recipient of the prestigious MIT Innovator of the Year award in 1999. Miguel has galvanized Ximian's efforts to make Linux accessible and available to the average computer user, and continues to reach out globally by working with international organizations such as eMexico to introduce affordable technology alternatives, like Linux, to other nations.</p>]]></description>
+      <enclosure length="41355502" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode71.mp3" />
+      <itunes:duration>43:03</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Miguel de Icaza, co-founder and CTO of Ximian, is one of the foremost luminaries in the Linux development community and one of the world's most prominent advocates for Free Software. Before co-founding Ximian, Miguel was instrumental in the...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 70: Nick Landry</title>
+      <pubDate>Mon, 27 Jun 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[35e4c7706337478d067ed253e373ab84]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-70-nick-landry]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/7/c/b/3/7cb3a61211561092/nick-landry.jpg" />
+      <description><![CDATA[<p>Nick Landry (@ActiveNick) is a mobility pioneer and expert specializing in the design and production of mobile applications for consumers and the enterprise using diverse cross-platform technologies including Windows Phone, Windows 8, iOS, Android, Mobile Web, Xamarin and PhoneGap. Nick is a Senior Technical Evangelist with Microsoft in the New York Metro area and works with developers, students and IT pros to help them learn, adopt and use the Microsoft developer platform to design and build the next generation of apps for Windows Phone, Windows 8 and Windows Azure. Nick is also a Nokia Developer Ambassador whose mandate is to educate and support Windows Phone developers to maximize their success.<br /> Prior to joining Microsoft, Nick spent almost two years as a Senior Product Manager for mobile, data visualization and geospatial developer tools across multiple technologies and platforms. He previously spent most his career in IT consulting and services organizations across various technical and business roles, designing, building, managing and selling innovative software solutions for some of the world’s top brands and Fortune 500 companies.Nick Landry (@ActiveNick) is a mobility pioneer and expert specializing in the design and production of mobile applications for consumers and the enterprise using diverse cross-platform technologies including Windows Phone, Windows 8, iOS, Android, Mobile Web, Xamarin and PhoneGap. Nick is a Senior Technical Evangelist with Microsoft in the New York Metro area and works with developers, students and IT pros to help them learn, adopt and use the Microsoft developer platform to design and build the next generation of apps for Windows Phone, Windows 8 and Windows Azure. Nick is also a Nokia Developer Ambassador whose mandate is to educate and support Windows Phone developers to maximize their success.<br /> Prior to joining Microsoft, Nick spent almost two years as a Senior Product Manager for mobile, data visualization and geospatial developer tools across multiple technologies and platforms. He previously spent most his career in IT consulting and services organizations across various technical and business roles, designing, building, managing and selling innovative software solutions for some of the world’s top brands and Fortune 500 companies.</p>]]></description>
+      <enclosure length="41602792" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode70.mp3" />
+      <itunes:duration>43:19</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Nick Landry (@ActiveNick) is a mobility pioneer and expert specializing in the design and production of mobile applications for consumers and the enterprise using diverse cross-platform technologies including Windows Phone, Windows 8, iOS, Android,...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 69: John Petersen</title>
+      <pubDate>Mon, 20 Jun 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[f8b51154a0710f72dab2ca25c403a57c]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-69-john-petersen]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/d/5/3/d/d53d73f8b3b9495f/john-petersen.jpg" />
+      <description><![CDATA[<p>John Petersen has been developing software for over 20 years. It all started when, as a staff accountant, he was asked to get involved in a system upgrade to replace an old IBM Series 1 computer (about the size of a large refrigerator!). Those first programs were written in Clipper in the summer of 1987. Since that time, tools he has used include dBase, FoxBase, Visual FoxPro, and Visual Basic.<br /> An early adopter of .NET, he then decided to go to law school. After practicing law for a few years, John realized that technology was a lot more interesting than the law. Today, John focuses on ASP.NET development and is having more fun than ever solving problems for clients.<br /> John is a Practice Director for Custom Application Development at Neudesic, a Microsoft Gold Partner and the Trusted Technology Partner in Business Innovation. A 9-time recipient of Microsoft’s Most Valuable Professional (MVP) Award, John is currently an ASP.NET/IIS MVP. John is also an ASP Insider and is the INETA Mentor for Pennsylvania and West Virginia. John is the author of several books and is a frequent contributor to Code Magazine and DevConnections Magazines. John holds a BS in Business Administration from Mansfield University, an MBA in Information Systems from St. Joseph’s University, and a JD from the Rutgers School of Law – Camden.John Petersen has been developing software for over 20 years. It all started when, as a staff accountant, he was asked to get involved in a system upgrade to replace an old IBM Series 1 computer (about the size of a large refrigerator!). Those first programs were written in Clipper in the summer of 1987. Since that time, tools he has used include dBase, FoxBase, Visual FoxPro, and Visual Basic.<br /> An early adopter of .NET, he then decided to go to law school. After practicing law for a few years, John realized that technology was a lot more interesting than the law. Today, John focuses on ASP.NET development and is having more fun than ever solving problems for clients.<br /> John is a Practice Director for Custom Application Development at Neudesic, a Microsoft Gold Partner and the Trusted Technology Partner in Business Innovation. A 9-time recipient of Microsoft’s Most Valuable Professional (MVP) Award, John is currently an ASP.NET/IIS MVP. John is also an ASP Insider and is the INETA Mentor for Pennsylvania and West Virginia. John is the author of several books and is a frequent contributor to Code Magazine and DevConnections Magazines. John holds a BS in Business Administration from Mansfield University, an MBA in Information Systems from St. Joseph’s University, and a JD from the Rutgers School of Law – Camden.</p>]]></description>
+      <enclosure length="45198308" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode69.mp3" />
+      <itunes:duration>47:03</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[John Petersen has been developing software for over 20 years. It all started when, as a staff accountant, he was asked to get involved in a system upgrade to replace an old IBM Series 1 computer (about the size of a large refrigerator!). Those first...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 68: G. Andrew Duthie</title>
+      <pubDate>Mon, 13 Jun 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[265cbf9401b258aa85e8d997d7d227c2]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-68-g-andrew-duthie]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/a/6/4/1/a641f02deec05284/g-andrew-duthie.jpg" />
+      <description><![CDATA[<p>G. Andrew Duthie, aka devhammer, is the founder and chief consultant for Devhammer Enterprises. Andrew is a consultant focused on helping clients meet their business goals through software. Andrew is also a trainer and writer with more than 15 years of industry experience, including nearly 10 years as a Technical Evangelist for Microsoft’s Mid-Atlantic States district, where he provided support and education for developers working with the Microsoft development platform. In addition to his work with Microsoft, Andrew is the author of several books on ASP.NET and web development, and has spoken at numerous industry conferences from VSLive! and ASP.NET Connections, to Microsoft’s Professional Developer Conference (PDC) and Tech-Ed. Andrew has been participating in the user group community since way back in 1997, when one of his co-workers dragged him out to the Internet Developers User Group in Tyson’s Corner, VA, and he’s been hooked ever since.<br /> Andrew is also the creator and developer of Community Megaphone, a site designed for promoting and finding developer community events.</p>]]></description>
+      <enclosure length="40843131" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode68.mp3" />
+      <itunes:duration>42:31</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[G. Andrew Duthie, aka devhammer, is the founder and chief consultant for Devhammer Enterprises. Andrew is a consultant focused on helping clients meet their business goals through software. Andrew is also a trainer and writer with more than 15 years...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 67: Rui Carvalho</title>
+      <pubDate>Tue, 31 May 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[9cc63931037a0c1ce53de8d0d473c1d4]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-67-rui-carvalho]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/e/4/d/9/e4d9364b178255a7/Rui-Carvalho.jpg" />
+      <description><![CDATA[<p>Rui is a software craftsman mostly working on Microsoft and web areas since 20 years, from the early Asp 2.0 to the latest DNX stuff. After a long time acting as a consultant for big companies, he focuses today on developing, teaching and mentoring teams on smaller projects like startups to build the right products with simplicity. He use to speak at different conferences about .net web, agility and developer’s practices, he also advocates for open source and open minds in the .net community and that’s why he leads today the alt.net group in France. Since 2014, he organize a professional developer’s conference in Paris, NCrafts with strong focus on new technologies, great practices and design and more globally about crafting software with love.</p>]]></description>
+      <enclosure length="53845230" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode67.mp3" />
+      <itunes:duration>37:22</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Rui is a software craftsman mostly working on Microsoft and web areas since 20 years, from the early Asp 2.0 to the latest DNX stuff. After a long time acting as a consultant for big companies, he focuses today on developing, teaching and mentoring...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 66: Bill Wagner</title>
+      <pubDate>Mon, 16 May 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e3caa86f517bbab825a136d029202364]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-66-bill-wagner]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/4/d/5/e/4d5e3e1c6f8f6c14/bill-wagner.jpg" />
+      <description><![CDATA[<p>Bill Wagner is one of the world’s foremost C# developers and a member of the ECMA C# Standards Committee. He is President of the Humanitarian Toolbox, has been awarded Microsoft Regional Director and .NET MVP for 10+years, and was recently appointed to the .NET Foundation Advisory Board. Wagner currently works with companies ranging from start-ups to enterprises improving the software development process and growing their software development teams.<br /> As a thought leader on C# programming language, Bill Wagner has authored 2 books; a best seller, “Effective C#”, and “More Effective C#”. Bill authors video training through Microsoft Virtual Academy on C# and .NET development. B ill has also written hundreds of technical articles (MSDN Magazine, .NET Developers Journal, Visual Studio Magazine, and many others), as well as actively blogs at http://www.thebillwagner.com/.</p>]]></description>
+      <enclosure length="46089224" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode66.mp3" />
+      <itunes:duration>31:59</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Bill Wagner is one of the world’s foremost C# developers and a member of the ECMA C# Standards Committee. He is President of the Humanitarian Toolbox, has been awarded Microsoft Regional Director and .NET MVP for 10+years, and was recently appointed...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 65: Merrick Christensen</title>
+      <pubDate>Mon, 25 Apr 2016 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e62d47b8a49defb2db93d4df1f0099a8]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-65-merrick-christensen]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/b/5/b/0/b5b0f59967415ba3/Merrick-christensen.jpg" />
+      <description><![CDATA[<p>Merrick Christensen has been programming for ten years and nearly all of that time has been focused in the web space. He’s built many high-traffic projects for prolific companies such as National Geographic, ABC Disney, Fox and others. He co-organized ng-conf, the official Angular conference. Was a panelist on the JavaScript Jabber podcast. Spoken at many conferences and maintained even more open source projects. The last five years he has been working at Domo trying to change the way people do business.</p>]]></description>
+      <enclosure length="46989424" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode65.mp3" />
+      <itunes:duration>32:37</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Merrick Christensen has been programming for ten years and nearly all of that time has been focused in the web space. He’s built many high-traffic projects for prolific companies such as National Geographic, ABC Disney, Fox and others. He...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 64: Richard Hundhausen</title>
+      <pubDate>Mon, 18 Apr 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[4e5051617e1800469f6568a74d507a61]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-64-richard-hundhausen]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/7/5/1/a/751a7d08bdc20fa6/richard-hundhausen.jpg" />
+      <description><![CDATA[<p>Richard is the president of Accentient, a company that helps software teams develop better products by leveraging ALM tools and Scrum. He is a Professional Scrum Trainer, author of Professional Scrum Development with Microsoft Visual Studio, and co-creator of the Scaled Professional Scrum framework. As a software developer and consultant with over 30 years of experience, he understands that software is built and delivered by people and not by processes or tools.</p>]]></description>
+      <enclosure length="55286840" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode64.mp3" />
+      <itunes:duration>38:23</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Richard is the president of Accentient, a company that helps software teams develop better products by leveraging ALM tools and Scrum. He is a Professional Scrum Trainer, author of Professional Scrum Development with Microsoft Visual Studio, and...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 63: Scott Guthrie</title>
+      <pubDate>Mon, 11 Apr 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e8e734e99d949321004b5e61b1badf8d]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-63-scott-guthrie]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/e/f/6/1/ef619363ce066f25/scott-guthrie.jpg" />
+      <description><![CDATA[<p>As executive vice president of the Microsoft Cloud and Enterprise group, Scott Guthrie is responsible for the company’s cloud infrastructure, server, database, management and development tools businesses. His engineering team builds Microsoft Azure, Windows Server, SQL Server, Active Directory, System Center, Visual Studio and .NET.<br />Prior to leading the Cloud and Enterprise group, Guthrie helped lead Microsoft Azure, Microsoft’s public cloud platform. Since joining the company in 1997, he has made critical contributions to many of Microsoft’s key cloud, server and development technologies and was one of the original founders of the .NET project. Guthrie graduated with a bachelor’s degree in computer science from Duke University. He lives in Seattle with his wife and two children.</p>]]></description>
+      <enclosure length="55920400" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode63.mp3" />
+      <itunes:duration>38:49</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[As executive vice president of the Microsoft Cloud and Enterprise group, Scott Guthrie is responsible for the company’s cloud infrastructure, server, database, management and development tools businesses. His engineering team builds Microsoft...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 62: Beth Massi</title>
+      <pubDate>Mon, 04 Apr 2016 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[9ddc6246a048b02fe02d1ed7dd05ce8c]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-62-beth-massi]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/0/5/f/3/05f38c1681582a0d/beth-massi.jpg" />
+      <description><![CDATA[<p>Beth is a Senior Product Manager for .NET at Microsoft and a long-time community champion for .NET developers. She helps developers build amazing things. Before Microsoft, she spent many years building business apps for small businesses as well as large enterprises, primarily on the .NET stack, and was a Microsoft MVP. She is a speaker at various software development events and you can find her on a variety of developer sites. Follow her on twitter and GitHub: @BethMassi</p>]]></description>
+      <enclosure length="57950052" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode62.mp3" />
+      <itunes:duration>40:14</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Beth is a Senior Product Manager for .NET at Microsoft and a long-time community champion for .NET developers. She helps developers build amazing things. Before Microsoft, she spent many years building business apps for small businesses as well as...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 61: Tim Huckaby</title>
+      <pubDate>Mon, 21 Mar 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[d9edbb064f63d18ff41ccba8d50ea0ec]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-61-tim-huckaby]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/d/a/6/6/da66d9d373d97cee/Tim-Huckaby.jpg" />
+      <description><![CDATA[<p>Tim Huckaby is an industry luminary focused on Emerging User Experiences, User Interaction Design and the Natural User Interface (NUI). <br />Mr. Huckaby has been awarded many times for the highest rated keynotes & presentations for Microsoft and many other industry & technology conferences like CES and events world-wide. Mr. Huckaby is consistently rated in the top 10% of all speakers at these events. Having worked for or with Microsoft for over 25 years, Mr. Huckaby has been on stage with, and done numerous keynote demos for many Microsoft executives including Bill Gates and Steve Ballmer.</p>]]></description>
+      <enclosure length="54469896" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode61.mp3" />
+      <itunes:duration>37:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Tim Huckaby is an industry luminary focused on Emerging User Experiences, User Interaction Design and the Natural User Interface (NUI). Mr. Huckaby has been awarded many times for the highest rated keynotes & presentations for Microsoft and many...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 60: Rod Paddock</title>
+      <pubDate>Mon, 14 Mar 2016 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[515476b291d2b852ffc1a24a543e8079]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-60-rod-paddock]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/e/4/c/d/e4cd0106565a93f9/rod-paddock.jpg" />
+      <description><![CDATA[<p>Rod Paddock is the editor of CODE Magazine. Rod has been a software developer for more than 10 years and has worked with tools like Visual Studio .NET SQL Server, Visual Basic, Visual FoxPro, Delphi and numerous others. Rod is president of Dash Point Software, Inc. Dash Point is an award winning software development firm that specializes in developing applications for small to large businesses. Dash Point has delivered applications for numerous corporations like: Six Flags, First Premier Bank, Intel, Microsoft and the US Coast Guard. Rod is also VP of Development for SQL Server tools maker, Red Matrix Technologies. (www.redmatrix.com).</p>]]></description>
+      <enclosure length="50386074" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode60.mp3" />
+      <itunes:duration>34:59</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Rod Paddock is the editor of CODE Magazine. Rod has been a software developer for more than 10 years and has worked with tools like Visual Studio .NET SQL Server, Visual Basic, Visual FoxPro, Delphi and numerous others. Rod is president of Dash Point...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 59: Todd Miranda</title>
+      <pubDate>Mon, 07 Mar 2016 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[edbf57bf2a92833d752946a38d3cc560]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-59-todd-miranda]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/9/6/b/f/96bf5e55f10b4e25/todd-miranda.jpg" />
+      <description><![CDATA[<p>Todd Miranda is a consultant, trainer, and author. He has been developing on various platforms for over 20 years and has been involved with .NET since it was first released in 2000. He has worked with many of the .NET platforms but focuses primarily on ASP.NET. He is the owner of NxtDimension Solutions and provides consulting and training on the Microsoft stack. Todd has been awarded a Microsoft MVP for the last 7 years. He is the co-founder of the Birmingham .NET User Group and remains active in the development community. He has recorded hundreds of online training videos on Microsoft development topics including security, JavaScript, Silverlight, WPF, Expression and ASP.NET. He is an INETA speaker and regularly presents at user groups, community events, and technical conferences.</p>]]></description>
+      <enclosure length="56549674" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode59.mp3" />
+      <itunes:duration>39:16</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Todd Miranda is a consultant, trainer, and author. He has been developing on various platforms for over 20 years and has been involved with .NET since it was first released in 2000. He has worked with many of the .NET platforms but focuses primarily...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 58: Jim Wooley</title>
+      <pubDate>Mon, 29 Feb 2016 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[cb4a44574d5252c90ca2e4b9d3a54a2c]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-58-jim-wooley]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/4/4/3/5/4435c7bde3429f99/jim-wooley.jpg" />
+      <description><![CDATA[<p>By day, Jim Wooley is a consultant for Slalom Consulting, In his free time, Jim is a frequent speaker, INETA Regional Speaker, MVP, and author of "LINQ in Action". He is always striving to stay at the forefront of technology and enjoys the thrill of a new challenge. He has been active evangelizing LINQ since it's announcement in 2005. In addition, he attempts to pass on the insights he has gained by being active in the community, including organizing and speaking at code camps and regional events, including DevLink, DevWeek, CodeMash, CodeStock, VS Live, and MIX.</p>]]></description>
+      <enclosure length="52498078" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode58.mp3" />
+      <itunes:duration>36:27</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[By day, Jim Wooley is a consultant for Slalom Consulting, In his free time, Jim is a frequent speaker, INETA Regional Speaker, MVP, and author of "LINQ in Action". He is always striving to stay at the forefront of technology and enjoys the thrill of a...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 57: Billy Hollis</title>
+      <pubDate>Mon, 11 Jan 2016 13:30:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e134304764199581bd5cb2b9434c3be8]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-57-billy-hollis]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/f/b/3/a/fb3af29dd0b3a7ba/billy-hollis.jpg" />
+      <description><![CDATA[<p>Billy is internationally known for his work on user experience design and native software development. His team, based in Nashville, Tennessee, has created modern apps hailed around the world for innovation and effective use of advanced user interface technologies. Billy offers training on user experience design for any platform, and technical classes on XAML technologies, including the Universal Windows Platform. You can see Billy at major conferences all over the world, usually doing sessions to help developers to become more focused on designing and developing software that users love.</p>]]></description>
+      <enclosure length="50181480" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode57.mp3" />
+      <itunes:duration>34:51</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Billy is internationally known for his work on user experience design and native software development. His team, based in Nashville, Tennessee, has created modern apps hailed around the world for innovation and effective use of advanced user interface...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 56: Peter Ritchie</title>
+      <pubDate>Mon, 30 Nov 2015 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[a861f43783001f79150759dca237dc0b]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-56-peter-ritchie]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/c/b/e/9/cbe9bc17e3ef08cf/peter-ritchie.jpg" />
+      <description><![CDATA[<p>Currently Software Architect at Quicken Loans, Peter Ritchie has over 12 years' experience working with .NET applications in C#. Prior to focusing on C#, Peter worked primarily in C/C++, which accounts for the majority of his 26 years of programming and design experience. Peter works with a variety of applications and systems including WinForms/WPF applications, client server applications, distributed applications, and web applications. Components include Windows services, TCP servers, TCP clients, HTTP server, and HTTP clients. Peter has also worked with a variety of middleware products including RabbitMQ and MSMQ.<br />Peter has spoken internationally on a variety of topics including unit test design and management, asynchronous programming, advanced .NET language features and syntax, concurrent and parallel programming and distributed programming. Peter is the author of Refactoring with Visual Studio 2010 and Visual Studio 2010 Best Practices.</p>]]></description>
+      <enclosure length="65732078" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode56.mp3" />
+      <itunes:duration>45:39</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Currently Software Architect at Quicken Loans, Peter Ritchie has over 12 years' experience working with .NET applications in C#. Prior to focusing on C#, Peter worked primarily in C/C++, which accounts for the majority of his 26 years of programming...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 55: Rick Strahl</title>
+      <pubDate>Mon, 31 Aug 2015 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[cf45b4f0c33f25ffe86e1a1e1f55da40]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-55-rick-strahl]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/2/a/e/6/2ae6867b7244f395/rick-strahl.jpg" />
+      <description><![CDATA[<p>Rick Strahl is the Big Kahuna and janitor at West Wind Technologies located on the beautiful island of Maui, Hawaii. Between windsurf sessions and spikey haired adventures, Rick has been a software developer for over 25 years, developing business and Web applications since the very early days of the Web when you needed a hand crank (or a pair of wire splicers) to get online. Today Rick builds client centric Web applications and services for customers with HTML5, JavaScript and mobile Web technologies, using AngularJS on the front end, and  the ASP.NET stack on the back end. Rick’s company West Wind Technologies also produces a number of developer related tools including West Wind WebSurge, West Wind Web Monitor and Html Help Builder.  He also maintains a host of open source libraries at  http://github.com/RickStrahl and you can find Rick’s blog at weblog.west-wind.com or contact him directly at rstrahl@west-wind.com.</p>]]></description>
+      <enclosure length="47918979" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode55.mp3" />
+      <itunes:duration>49:53</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Rick Strahl is the Big Kahuna and janitor at West Wind Technologies located on the beautiful island of Maui, Hawaii. Between windsurf sessions and spikey haired adventures, Rick has been a software developer for over 25 years, developing business and...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 54: Jeff Handley</title>
+      <pubDate>Mon, 17 Aug 2015 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[96a81407d5aaa28fa539fda05c2b889f]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-54-jeff-handley]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/3/d/7/a/3d7afd5a17f3e219/jeff-handley.jpg" />
+      <description><![CDATA[<p>Jeff Handley works at Concur and is focusing on the UI for web applications. He previously worked at Microsoft as the Development Lead for NuGet and WCF RIA Services. Jeff has been building and maturing software projects for 20 years. His largest projects have covered education, healthcare waste management, fantasy football, credit/mortgage, and point of sale. Throughout his career, he keeps getting drawn back to web application development.</p>]]></description>
+      <enclosure length="33201522" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode54.mp3" />
+      <itunes:duration>34:33</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Jeff Handley works at Concur and is focusing on the UI for web applications. He previously worked at Microsoft as the Development Lead for NuGet and WCF RIA Services. Jeff has been building and maturing software projects for 20 years. His largest...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 53: Barry Dorrans</title>
+      <pubDate>Mon, 27 Jul 2015 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[8dbb1e04be05db75772c109154035c17]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-53-barry-dorrans]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/0/a/d/e/0ade69e17956657d/barry-dorrans.jpg" />
+      <description><![CDATA[<p>Barry is the security czar for ASP.NET which means he gets to look at the framework, tools and template code, searching for potential insecurities and sometimes even fixing them. He also triages publically and privately reported vulnerabilities before getting someone else to fix them which means he gets all of the fun and none of the responsibility. He is rude and objectionable on twitter as @blowdart.</p>]]></description>
+      <enclosure length="36530204" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode53.mp3" />
+      <itunes:duration>38:02</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Barry is the security czar for ASP.NET which means he gets to look at the framework, tools and template code, searching for potential insecurities and sometimes even fixing them. He also triages publically and privately reported vulnerabilities before...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 52: Matt Pietrek</title>
+      <pubDate>Thu, 02 Apr 2015 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[85c9e9756ab2555693795f818dfaff5d]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-52-matt-pietrek]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/2/a/8/5/2a8549336579c734/matt-pietrek.jpg" />
+      <description><![CDATA[<p>With over 25 years in the software industry, Matt Pietrek has had quite the interesting ride. Starting at Borland in the late 1980s during the heady days of the Microsoft/Borland “compilers wars”, he got his first, intoxicating taste of OS internals, debuggers and tools. From there he spent a decade at NuMega Technologies, working on seminal, award-winning products like BoundsChecker and SoftIce. Next was a seven year stint at Microsoft where he worked on the Visual Studio debugger & profiler teams, Red Dog (now known as Azure), and Hyper-V. He currently works at Skytap, a cloud computing company. Along the way, he wrote several books on Windows internals, as well as numerous articles and columns for magazines just as MSJ/MSDN, PC Magazine, and Byte. When not slinging Python code or groveling through logs, Matt indulges his passion for distilled spirits and cocktails. He’s got a serious, ever growing collection of rums, and writes the CocktailWonk blog about his spirited adventures: http://cocktailwonk.com</p>]]></description>
+      <enclosure length="45267176" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode52.mp3" />
+      <itunes:duration>47:08</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[With over 25 years in the software industry, Matt Pietrek has had quite the interesting ride. Starting at Borland in the late 1980s during the heady days of the Microsoft/Borland “compilers wars”, he got his first, intoxicating taste of OS...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 51: Frans Bouma</title>
+      <pubDate>Mon, 23 Feb 2015 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[ad42519a2e050a3e8c00ae281786ed21]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-51-frans-bouma]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/5/1/8/4/5184f6405d116c6d/frans-bouma.jpg" />
+      <description><![CDATA[<p>Frans Bouma is the creator and lead developer of LLBLGen Pro, a leading ORM and Entity Modeling solution for .NET. Programming professionally since '94, after he (finally) got his B.sc in Computer Science. Frans wrote his first code back in '86 on a Toshiba HX-10 MSX computer and has been fascinated about telling computer hardware to do what you want by writing software ever since. In his spare time he spent more than a decade in the underground scene called 'Demoscene', first on Commodore Amiga 500 and later on PC, writing graphical demos and computer music.</p>]]></description>
+      <enclosure length="41046066" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode51.mp3" />
+      <itunes:duration>42:45</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Frans Bouma is the creator and lead developer of LLBLGen Pro, a leading ORM and Entity Modeling solution for .NET. Programming professionally since '94, after he (finally) got his B.sc in Computer Science. Frans wrote his first code back in '86 on a...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 50: Keith Elder</title>
+      <pubDate>Sun, 01 Feb 2015 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[42eb72255028d5121b8be4b26359d402]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-50-keith-elder]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/8/8/7/1/887123bd4c14328a/keith-elder.jpg" />
+      <description><![CDATA[<p>Keith Elder is the co-host of the popular online technology podcast Deep Fried Bytes. He is also a Director of Software Engineering at Quicken Loans, the nation’s largest online mortgage lender based in Detroit, MI. Keith is an experienced technologist, systems administrator, software engineer, speaker, trainer and all around geek. He speaks throughout the United States at major technical conferences, Code Camps, and .Net User Groups. Keith’s ability to explain complex topics with a friendly common sense southern attitude make him a highly regarded speaker at technical conferences. You can read more about Keith’s interests, hobbies, rants and raves on his blog at http://keithelder.net/ and follow him on twitter at http://twitter.com/keithelder.</p>]]></description>
+      <enclosure length="40229325" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode050.mp3" />
+      <itunes:duration>42:01</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Keith Elder is the co-host of the popular online technology podcast Deep Fried Bytes. He is also a Director of Software Engineering at Quicken Loans, the nation’s largest online mortgage lender based in Detroit, MI. Keith is an experienced...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 49: Scott Stanfield</title>
+      <pubDate>Thu, 15 Jan 2015 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[999a8ff4e764a15c832a27e72621659d]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-49-scott-stanfield]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/3/a/d/3/3ad31d2de6767559/scott-stanfield.jpg" />
+      <description>
+        <![CDATA[<p>Scott Stanfield is the founder and CEO of Vertigo Software, Inc., a digital design and development shop for the media & entertainment business. He is a frequent public speaker, presenting on software technology and design for the past 20 years. Vertigo is making TV Everywhere happen for the major US broadcasters on mobile, desktop and consoles.</p>
+<p>Before starting Vertigo in 1997, Scott worked at Pixar in Point Richmond, California, which happens to be the current home of Vertigo. Scott holds a BS in Computer Science for Cal Poly, San Luis Obispo. Follow Scott on Twitter at @seesharp or email to scott@vertigo.com.</p>
+<p> </p>]]>
+      </description>
+      <enclosure length="44813902" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode049.mp3" />
+      <itunes:duration>46:40</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Scott Stanfield is the founder and CEO of Vertigo Software, Inc., a digital design and development shop for the media & entertainment business. He is a frequent public speaker, presenting on software technology and design for the past 20 years....]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 48: Dave Ward</title>
+      <pubDate>Thu, 01 Jan 2015 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[5049472a5e977cc4233b3f9e06325d49]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-48-dave-ward]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/e/f/9/e/ef9e9eaa89b8cc51/dave-ward.jpg" />
+      <description><![CDATA[<p>Dave Ward is an independent consultant and author, specializing in projects ranging from ASP.NET, to Node.js, to JavaScript single page applications, to hybrid mobile apps. With twenty years of experience developing for the web, he has been recognized as a Microsoft Regional Director, ASP.NET MVP, and member of the ASPInsiders. To learn more or to get in touch with Dave, you can visit his blog at http://Encosia.com or find him on Twitter as @Encosia.</p>]]></description>
+      <enclosure length="43986917" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode48.mp3" />
+      <itunes:duration>45:48</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Dave Ward is an independent consultant and author, specializing in projects ranging from ASP.NET, to Node.js, to JavaScript single page applications, to hybrid mobile apps. With twenty years of experience developing for the web, he has been recognized...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 47: Steve Smith</title>
+      <pubDate>Mon, 15 Dec 2014 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[6db9a631243e3e26862becc21a88ad27]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-47-steve-smith]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/1/5/f/b/15fb44c0dc52fe66/steve-smith.jpg" />
+      <description><![CDATA[<p>Steve is an entrepreneur and software developer with a passion for building quality software as effectively as possible. He is currently the Chief Technology Officer of Falafel Software. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He's a Microsoft Regional Director and MVP, a frequent speaker at developer conferences, an author, and a trainer. Along with his wife and business partner, Michelle Smith, Steve was also the founder of Lake Quincy Media (acquired by The Code Project) and NimblePros (acquired by Telerik). Steve's an ex-Army Engineer officer and Iraq veteran who enjoys playing games and spending time outdoors.</p>]]></description>
+      <enclosure length="42774090" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode47.mp3" />
+      <itunes:duration>44:32</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Steve is an entrepreneur and software developer with a passion for building quality software as effectively as possible. He is currently the Chief Technology Officer of Falafel Software. Steve has published several courses on Pluralsight, covering...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 46: Rockford Lhotka</title>
+      <pubDate>Sat, 01 Nov 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[93d717ee667076f6f62252c846cf83f8]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-46-rockford-lhotka]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/9/8/2/8/9828647b115b6957/rocky-lhotka.jpg" />
+      <description><![CDATA[<p>Rockford Lhotka is the CTO of Magenic, and is the creator of the widely used CSLA .NET development framework. He is the author of numerous books, and regularly speaks at major conferences around the world. Rockford is a Microsoft Regional Director and MVP. Magenic (www.magenic.com) is a company that specializes in planning, designing, building and maintaining your enterprise’s most mission critical systems. For more information go to www.lhotka.net.</p>]]></description>
+      <enclosure length="41312716" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode46.mp3" />
+      <itunes:duration>43:01</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Rockford Lhotka is the CTO of Magenic, and is the creator of the widely used CSLA .NET development framework. He is the author of numerous books, and regularly speaks at major conferences around the world. Rockford is a Microsoft Regional Director and...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 45: Deborah Kurata</title>
+      <pubDate>Mon, 20 Oct 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[a3b46920ca0c208472b02dad20304e32]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-45-deborah-kurata]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/b/9/6/d/b96d178060ed5407/deborah-kurata.jpg" />
+      <description><![CDATA[<p>Deborah Kurata is an independent software consultant/developer specializing in Web and .NET development using AngularJS, VB.NET, and C#. She has also published several Pluralsight courses.  Deborah has authored several programming books including the popular "Doing Objects" series and is a speaker at conferences such as VSLive! and TechEd. She is also the co-chair of the EastBay.NET user group in the San Francisco Bay/Silicon Valley area.</p>]]></description>
+      <enclosure length="29218405" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode45.mp3" />
+      <itunes:duration>30:25</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Deborah Kurata is an independent software consultant/developer specializing in Web and .NET development using AngularJS, VB.NET, and C#. She has also published several Pluralsight courses.  Deborah has authored several programming books including...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 44: Steve Evans</title>
+      <pubDate>Mon, 13 Oct 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[3eba0d90f0c4cfdea06a45a7ac50c3c8]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-44-steve-evans]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/1/9/1/c/191c19b56bf7683e/steve-evans.jpg" />
+      <description>
+        <![CDATA[<p>Steve Evans has been doing DevOps since before the term DevOps was invented. He is a Pluralsight Author, five time Microsoft Most Valuable Professional (MVP), and technical Speaker at various industry events. In his spare time he manages a DevOps team at a Silicon Valley Biotech focused on improving the lives of cancer patients. For over 15 years Steve has focused on making technology better for businesses by bridging the gap between IT and Development teams.</p>
+<p>You can follow his technical blog at http://www.LoudSteve.com or find him on twitter at@TheLoudSteve.</p>
+<p> </p>]]>
+      </description>
+      <enclosure length="36989487" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode44.mp3" />
+      <itunes:duration>38:31</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Steve Evans has been doing DevOps since before the term DevOps was invented. He is a Pluralsight Author, five time Microsoft Most Valuable Professional (MVP), and technical Speaker at various industry events. In his spare time he manages a DevOps team...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 43: Walt Ritscher</title>
+      <pubDate>Mon, 06 Oct 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[84115e95befcd809b35b9d458e7e27d0]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-43-walt-ritscher]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/c/2/f/e/c2fe543f28bc7535/walt-ritscher.jpg" />
+      <description>
+        <![CDATA[<p>Walt's enthusiasm for crafting software interfaces blossomed early.  Just a few days after discovering how to make pixels move around the screen of a borrowed computer he was devouring books on the topic of computer graphics and UI design.  Now he travels the world speaking at software conferences and teaching a diverse portfolio of programming topics for corporate clients. On the consulting side he continues to work with customers like Microsoft, HP, Intel, and Intuit and enjoys being part of the Wintellect consultant group.He has over fifty hours of video training courses available in the WintellectNow, Lynda and Udemy catalogs.  He writes for several publications including Code Magazine and has a new "HLSL and Pixel Shaders for XAML Developer" book available from O'Reilly Media. His current UI obsession revolves around the Windows 8 Metro, Mobile, ASP.NET MVC and WPF APIs.  This year he is learning as much as he can about Xamarin. You can find his blog at xamlwonderland.com. Walt is also a Microsoft MVP and author of the free Shazzam Shader Editor (shazzam-tool.com).</p>
+<p>He is also deeply involved in the local developer community — founding the .NET Developers Association in Redmond, WA and continues to help organize the Seattle Code Camp, developer hackathons and other local events.</p>
+<p> </p>]]>
+      </description>
+      <enclosure length="42092776" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode43.mp3" />
+      <itunes:duration>43:50</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Walt's enthusiasm for crafting software interfaces blossomed early.  Just a few days after discovering how to make pixels move around the screen of a borrowed computer he was devouring books on the topic of computer graphics and UI design....]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 42: Kate Gregory</title>
+      <pubDate>Mon, 29 Sep 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[0a2443dfa8e3c6d42a80b3c481a5b695]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-42-kate-gregory]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/8/3/d/0/83d0cfb21b04cf78/kate-gregory.jpg" />
+      <description>
+        <![CDATA[<p>Kate Gregory has been using C++ since before Microsoft had a C++ compiler, and has been paid to program since 1979. She loves C++ and believes that software should make our lives easier. That includes making the lives of developers easier! She'll stay up late arguing about deterministic destruction or how C++ 11 is not the C++ you remember.</p>
+<p>Kate runs a small consulting firm in rural Ontario and provides mentoring and management consultant services, as well as writing code every week. She has spoken all over the world, written over a dozen books, and helped thousands of developers to be better at what they do. Kate is a Microsoft Regional Director, and a Visual C++ MVP, an Imagine Cup judge and mentor, and an active contributor to StackOverflow and other StackExchange sites. She develops courses for Pluralsight, primarily on C++ and Visual Studio. In 2014 she was Open Content Chair for CppCon, the largest C++ conference ever held, where she also delivered sessions.</p>]]>
+      </description>
+      <enclosure length="44536911" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode42.mp3" />
+      <itunes:duration>46:23</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Kate Gregory has been using C++ since before Microsoft had a C++ compiler, and has been paid to program since 1979. She loves C++ and believes that software should make our lives easier. That includes making the lives of developers easier! She'll stay...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 41: Carl Franklin</title>
+      <pubDate>Mon, 22 Sep 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[f7bbcef0ed6c4e08d603a754aea8c5de]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-41-carl-franklin]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/e/0/7/f/e07fadc11daba8e4/carl-franklin.jpg" />
+      <description><![CDATA[<p>Carl Franklin is Executive Vice President of App vNext, a software development firm helping to bring about the Internet of Things revolution. Carl is a 20+ year veteran of the software industry, co-host and founder of .NET Rocks!, the first and most widely listened to podcast for .NET developers, a Microsoft MVP for Kinect for Windows, a Microsoft Regional Director, and Senior Executive of Pwop Studios, a full-service audio and video production/post production studio located in Southeastern Connecticut. Carl has been a leader in the .NET community since 2002, and in the Visual Basic (VB) community before that. In the very early days he wrote for Visual Basic Programmer’s Journal, authoring the Q&A column of that magazine as well as many feature articles for VBPJ and other magazines. He has authored two books for John Wiley & Sons on sockets programming in VB, and in 1994 he helped create the very first web site for VB developers, Carl & Gary's VB Home Page.</p>]]></description>
+      <enclosure length="45095404" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode41.mp3" />
+      <itunes:duration>46:54</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Carl Franklin is Executive Vice President of App vNext, a software development firm helping to bring about the Internet of Things revolution. Carl is a 20+ year veteran of the software industry, co-host and founder of .NET Rocks!, the first and most...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 40: Kathleen Dollard</title>
+      <pubDate>Mon, 15 Sep 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[c190342749b30294984256cf117b2fdc]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-40-kathleen-dollard]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/6/9/2/c/692c6311604a044e/kathleen-dollard.jpg" />
+      <description><![CDATA[<p>Kathleen Dollard wants to teach you to code better. There’s more to learn about the tools you use every day and the tools you aren’t yet using.  Coding is our passion and debugging is our challenge - you’ll be happier if you do both better. Kathleen’s written dozens of articles, spoken at conferences and user groups around the world, and pushes Microsoft to respond to your real world needs as a long time MVP. Her Open Source project RoslynDom offers alterative access to information in the .NET Compiler Platform, Roslyn with a load/interrogate/mutate/build SyntaxTree model. She has courses in the Pluralsight library and a series of C# 6 webcasts now available for free on WintellectNOW.</p>]]></description>
+      <enclosure length="27731475" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode40.mp3" />
+      <itunes:duration>28:50</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Kathleen Dollard wants to teach you to code better. There’s more to learn about the tools you use every day and the tools you aren’t yet using.  Coding is our passion and debugging is our challenge - you’ll be happier if you do...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 39: Tim Heuer</title>
+      <pubDate>Tue, 02 Sep 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[e601801d1363f7d49088562d1da58c03]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-39-tim-heuer]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/2/8/c/2/28c2fae01798a28e/tim-heuer.jpg" />
+      <description><![CDATA[<p>Tim Heuer is a program manager for Microsoft working on the client UI developer platforms working on XAML in Windows and previously Silverlight. Before joining the XAML engineering teams, Tim worked with technical communities across the country helping to foster and build user communities focused on software developer technologies. Tim has worked with Microsoft developer tools and technologies since the early 1990s. Prior to joining Microsoft, he worked as a consultant for 14 years helping to implement technology solutions to enable success in businesses across various industries such as health care, construction, real estate, and electronic commerce to name a few. He's inflicted with the unfortunate disease that his work is also his hobby and he loves technology. You can usually find him behind the keyboard trying to learn something new. You can find him online sharing his thoughts on technology at http://timheuer.com/blog/.</p>]]></description>
+      <enclosure length="34281913" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode39.mp3" />
+      <itunes:duration>35:41</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Tim Heuer is a program manager for Microsoft working on the client UI developer platforms working on XAML in Windows and previously Silverlight. Before joining the XAML engineering teams, Tim worked with technical communities across the country...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 38: Stephen Forte</title>
+      <pubDate>Mon, 25 Aug 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[436adf96288dac60fdab4dcfc48239f6]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-38-stephen-forte]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/c/6/6/a/c66a94268b19ae77/stephen-forte.jpg" />
+      <description><![CDATA[<p>Stephen Forte is the Chief Strategy Officer of the venture backed company, Telerik, a leading vendor of developer and team productivity tools. He is the founder and executive director of Mach5, a Silicon Valley based startup accelerator and co-founder of AcceleratorHK, Hong Kong’s first startup accelerator. As well as the founder or co-founder if severl a successful companies. Stephen is also a Certified Scrum Master, Certified Scrum Professional, PMP, and also speaks regularly at industry conferences around the world. He has written several books on application and database development. Stephen has an MBA from the City University of New York. Stephen is also a board member of the Scrum Alliance. An avid mountain climber, Stephen leads a trek in the Mt. Everest region every fall to raise money for charity. After several years as an ex-pat in Hong Kong, Stephen now lives in Silicon Valley with his wife.</p>]]></description>
+      <enclosure length="32113163" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode38.mp3" />
+      <itunes:duration>33:26</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Stephen Forte is the Chief Strategy Officer of the venture backed company, Telerik, a leading vendor of developer and team productivity tools. He is the founder and executive director of Mach5, a Silicon Valley based startup accelerator and co-founder...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 37: Clemens Vasters</title>
+      <pubDate>Mon, 18 Aug 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[6730b4a2e8bdae2180c1dc3dfb943c36]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-37-clemens-vasters]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/2/c/8/a/2c8ad2a68a8fddf8/clemens-vasters.jpg" />
+      <description><![CDATA[<p>Clemens Vasters is a Software Architect and currently works for Microsoft where he helps shape the technical strategy for the Windows Azure Service Bus. Before joining Microsoft, Clemens has worked on financial software solutions and in consulting, has spoken at hundreds of events in over 40 countries, and has contributed to a number of open source efforts including starting the dasBlog blog engine. Clemens has a long history educating developers, having taught some of the first available .NET training courses for developers in Europe in early 2002.</p>]]></description>
+      <enclosure length="47848827" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode37.mp3" />
+      <itunes:duration>49:49</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Clemens Vasters is a Software Architect and currently works for Microsoft where he helps shape the technical strategy for the Windows Azure Service Bus. Before joining Microsoft, Clemens has worked on financial software solutions and in consulting,...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 36: Troy Hunt</title>
+      <pubDate>Mon, 11 Aug 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[70da0423e4ed5cadb2ddd1f091fad724]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-36-tony-hunt]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/3/a/3/a/3a3a855857ba923e/troy-hunt.jpg" />
+      <description>
+        <![CDATA[<p>Troy lives in the two worlds of building software and breaking software, predominantly software running on the web. From the very early days of HTML, Troy has been a web-centric guy all the way through to today’s modern devices either talking over HTTP or pushing angle brackets around. Having drifted towards security, he now focusses on helping developers understand how to break their own apps and build up offensive skills that are complemented by teaching secure coding patterns – if you don’t know how to break it, you don’t know how to protect it! Troy is an Aussie Microsoft MVP for Developer Security living in Sydney and writing at troyhunt.com as well as speaking around the world, training and creating Pluralsight courses.</p>
+<p>When not building or breaking, Troy’s into snowboarding, lots of tennis and fast cars.</p>
+<p> </p>]]>
+      </description>
+      <enclosure length="32614890" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode36.mp3" />
+      <itunes:duration>33:57</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Troy lives in the two worlds of building software and breaking software, predominantly software running on the web. From the very early days of HTML, Troy has been a web-centric guy all the way through to today’s modern devices either talking...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 35: Mike Woodring</title>
+      <pubDate>Tue, 05 Aug 2014 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[5cd8c1b125836b1f35aef9afd135eca0]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-35-mike-woodring]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/1/7/7/0/17707e27b5677275/mike-woodring.jpg" />
+      <description><![CDATA[<p>Mike Woodring Mike Woodring's LinkedIn pageMike Woodring's Twitter page Mike is the VP of Developer Content - Enterprise Software at Pluralsight. A former Microsoft C# MVP and multiple U.S. patent holder, Mike has over 20 years of experience developing high performance software systems and training developers around the world. Mike is co-author of Win32 Multithreaded Programming and Debugging Windows Programs: Strategies, Tools, and Techniques for Visual C++ Programmers.</p>]]></description>
+      <enclosure length="32502623" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode35.mp3" />
+      <itunes:duration>33:51</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Mike Woodring Mike Woodring's LinkedIn pageMike Woodring's Twitter page Mike is the VP of Developer Content - Enterprise Software at Pluralsight. A former Microsoft C# MVP and multiple U.S. patent holder, Mike has over 20 years of experience...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 34: Dan Wahlin</title>
+      <pubDate>Mon, 28 Jul 2014 14:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[3257a90cc2b0259df827c3537e87e8c3]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-34-dan-wahlin]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/b/3/5/b/b35b815e8aa8233d/dan-wahlin.jpg" />
+      <description><![CDATA[<p>Dan Wahlin founded Wahlin Consulting which provides consulting and training services on Web technologies such as JavaScript, AngularJS, HTML5, Node.js, C#, ASP.NET MVC, Web API, and SharePoint. He’s also a course author on Pluralsight.com and has published several courses covering a range of technologies including the new AngularJS JumpStart course on Udemy.com. Dan speaks at conferences and user groups around the world and has written several books on Web technologies. Dan blogs at http://weblogs.asp.net/dwahlin, runs the Web Weekly newsletter (a great way to stay up on the latest technologies), and writes columns for various technical magazines. Follow Dan on Twitter @DanWahlin.</p>]]></description>
+      <enclosure length="46072183" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode34.mp3" />
+      <itunes:duration>47:58</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Dan Wahlin founded Wahlin Consulting which provides consulting and training services on Web technologies such as JavaScript, AngularJS, HTML5, Node.js, C#, ASP.NET MVC, Web API, and SharePoint. He’s also a course author on Pluralsight.com and...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 33: Ian Griffiths</title>
+      <pubDate>Mon, 21 Jul 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[78b65e38ac9ad853d0e7cb2a1b456d83]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-33-ian-griffiths]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/c/f/1/1/cf114aff9bf926ad/ian-griffiths.jpg" />
+      <description><![CDATA[<p>Ian is an independent consultant, developer, speaker, and author. He has written books on Windows Presentation Foundation, Windows Forms, and Visual Studio. He lives in London but can often be found on various developer mailing lists and newsgroups, where a popular sport is to see who can get him to write the longest email in reply to the shortest possible question.</p>]]></description>
+      <enclosure length="38223437" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode33.mp3" />
+      <itunes:duration>39:47</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Ian is an independent consultant, developer, speaker, and author. He has written books on Windows Presentation Foundation, Windows Forms, and Visual Studio. He lives in London but can often be found on various developer mailing lists and newsgroups,...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 32: Lino Tadros</title>
+      <pubDate>Mon, 14 Jul 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[ee21ff845885404e7edb7fd33ddd5a1a]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-32-lino-tadros]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/0/6/7/2/0672d5041c11af7c/lino-tadros.jpg" />
+      <description><![CDATA[<p>Alain "Lino" Tadros is President & CEO of Falafel Software, a Silicon Valley based company, with presence in Colorado,Texas, Michigan, Florida and North Carolina, dedicated to providing world-class consulting, training, and software development for small, medium, and enterprise level businesses. Prior to founding Falafel, Lino was a member of the development team at Borland for Delphi and C++Builder. Lino has been awarded Microsoft MVP status twelve years in a row for his numerous contributions to the C# community and is an expert in .NET, LINQ, ASP.NET, MVC, XAML, Windows Phone and Web Services. Lino is an industry renowned speaker and has given numerous presentations on 5 different continents since 1994. He also currently sits on the Board of Directors of 4 Silicon Valley corporations.</p>]]></description>
+      <enclosure length="28580398" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode32.mp3" />
+      <itunes:duration>29:44</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Alain "Lino" Tadros is President & CEO of Falafel Software, a Silicon Valley based company, with presence in Colorado,Texas, Michigan, Florida and North Carolina, dedicated to providing world-class consulting, training, and software development...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 31: Joe Eames</title>
+      <pubDate>Mon, 07 Jul 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[faa3662ff076e7b1eb2288e33e8da6f2]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-31-joe-eames]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/b/0/b/f/b0bfc12360ab227d/joe-eames.jpg" />
+      <description><![CDATA[<p>Joe began his love of programming on an Apple III in BASIC. Although his preferred language is JavaScript, he has worked professionally with many other languages and just about every major Microsoft language. He is currently a consultant and freelance author for Pluralsight.com. Joe has always had a strong interest in education, and has worked both full- and part-time positions as a technical teacher for over fifteen years. He is a frequent blogger and speaker, organizer of the AngularJS conference known as ng-conf (www.ng-conf.org), organizer of the UtahJS user group, and a panelist on the JavaScript Jabber podcast (http:// javascriptjabber.com</p>]]></description>
+      <enclosure length="32499039" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode31.mp3" />
+      <itunes:duration>33:50</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Joe began his love of programming on an Apple III in BASIC. Although his preferred language is JavaScript, he has worked professionally with many other languages and just about every major Microsoft language. He is currently a consultant and freelance...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 30: Ted Neward</title>
+      <pubDate>Mon, 23 Jun 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[46e5b4e7485e988adfd363ce1c8f995d]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-30-ted-neward]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/1/e/5/1/1e5176245e54a985/ted-neward.jpg" />
+      <description>
+        <![CDATA[<p>Ted is currently the CTO of iTrellis, a team of experienced technology professionals who promote the Continuous Delivery of high quality new services. He is an authority in Java and .NET technologies, particularly in the areas of Java/.NET integration (both in-process and via integration tools like Web services), back-end enterprise software systems, and virtual machine/execution engine plumbing.</p>
+<p>He is the author or co-author of several books, including Effective Enterprise Java, C# In a Nutshell, SSCLI Essentials, Server-Based Java Programming, and a contributor to several technology journals. Ted is also a Microsoft MVP Architect, BEA Technical Director, INETA speaker, former DevelopMentor instructor, frequent worldwide conference speaker, and a member of various Java JSRs. He lives in the Pacific Northwest with his wife, two sons, and eight PCs.</p>]]>
+      </description>
+      <enclosure length="41921172" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode30.mp3" />
+      <itunes:duration>43:39</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Ted is currently the CTO of iTrellis, a team of experienced technology professionals who promote the Continuous Delivery of high quality new services. He is an authority in Java and .NET technologies, particularly in the areas of Java/.NET integration...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 29: Rob Windsor</title>
+      <pubDate>Mon, 16 Jun 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[29cec3fd7f450297b5cf04f583770d26]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-29-rob-windsor]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/b/d/0/a/bd0ab62b376d8297/rob-windsor.jpg" />
+      <description><![CDATA[<p class="MsoNormal"><span lang="EN-CA">Rob Windsor is a Lead SharePoint Consultant with Portal Solutions - a Microsoft Gold Partner based in DC and Boston. He has twenty years experience developing rich-client and web applications with various languages and is currently spending a majority of his time working with SharePoint. Rob is a regular speaker at conferences and community events and he authors content for the Pluralsight On-Demand library. Rob is the founder and past-president of the North Toronto .NET User Group and has been recognized as a Microsoft Most Valuable Professional for his involvement in the developer community.</span></p>]]></description>
+      <enclosure length="35579388" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode29.mp3" />
+      <itunes:duration>37:03</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Rob Windsor is a Lead SharePoint Consultant with Portal Solutions - a Microsoft Gold Partner based in DC and Boston. He has twenty years experience developing rich-client and web applications with various languages and is currently spending a majority...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 28: Rachel Appel</title>
+      <pubDate>Mon, 09 Jun 2014 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[4a18095557915732d44b2caf98185161]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-28-rachel-appel]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/2/b/9/6/2b964ffd1ca035e8/rachel-appel.jpg" />
+      <description><![CDATA[<p>Rachel is a 20+ year consultant, author, mentor, and former Microsoft employee in the IT industry who speaks at top industry conferences such as VSLive!, DevConnections, MIX, and more. During her career, Rachel has worked on projects of all sizes from the smallest of apps to the largest enterprise systems at some of the world’s leading companies.</p>]]></description>
+      <enclosure length="37205268" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode28.mp3" />
+      <itunes:duration>38:45</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Rachel is a 20+ year consultant, author, mentor, and former Microsoft employee in the IT industry who speaks at top industry conferences such as VSLive!, DevConnections, MIX, and more. During her career, Rachel has worked on projects of all sizes from...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 27: John Robbins</title>
+      <pubDate>Mon, 02 Jun 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[5d904329bc8a5d47c186682d8423c07e]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-27-john-robbins]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/2/6/8/6/2686bf4d2fef7520/john-robbins.jpg" />
+      <description><![CDATA[<p>John is a co-founder of Wintellect (http://www.wintellect) and a course author at WintellectNOW (http://www.wintellectnow.com). In our business it’s good to specialize in something so John specializes in pain: debugging and performance tuning. He’s debugged and tuned applications for companies such as eBay, Microsoft, AutoDesk, and everyone in between. As a 10 year MVP, John’s written countless articles and three books on debugging. Prior to starting Wintellect 14 years ago John was one of the earliest developers at the legendary debugging tools company, NuMega. He got a late start as a software developer after having spent five years as a paratrooper and Green Beret in the US Army.</p>]]></description>
+      <enclosure length="40884080" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode27.mp3" />
+      <itunes:duration>42:34</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[John is a co-founder of Wintellect (http://www.wintellect) and a course author at WintellectNOW (http://www.wintellectnow.com). In our business it’s good to specialize in something so John specializes in pain: debugging and performance tuning....]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 26: Laurent Bugnion</title>
+      <pubDate>Mon, 26 May 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[48216d8cdfdc0ea49444277bf1e887f9]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-26-laurent-bugnion]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/4/1/9/0/419059f646b936a3/laurent-bugnion.jpg" />
+      <description>
+        <![CDATA[<p>Laurent works as Senior Director for IdentityMine, one of the leading companies (and Gold Partner) for Microsoft technologies such as Windows Presentation Foundation, Silverlight, Pixelsense, Windows 8, Windows Phone, XBOX and generally User Experience. He is based in Zurich Switzerland, where he lives with his wife Chi Meei and his two daughters Alise and Laeticia.</p>
+<p> </p>
+<p>In October 2010, the book 'Silverlight 4 Unleashed' that he wrote was published at Sams, an advanced sequel to 'Silverlight 2 Unleashed' (published Oct 2008). He writes for MSDN magazine and other publications, codes in Windows Phone, Windows 8, WPF, Silverlight, ASP.NET and his blog is on http://blog.galasoft.ch. 2014 is his 8th year as a Microsoft Most Valuable Professional (Client Dev) and his second year as a Microsoft Regional Director. He is also the author of the well-known open source framework MVVM Light for Windows Phone, Windows 8, WPF, Silverlight.</p>]]>
+      </description>
+      <enclosure length="44184977" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode26.mp3" />
+      <itunes:duration>46:01</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Laurent works as Senior Director for IdentityMine, one of the leading companies (and Gold Partner) for Microsoft technologies such as Windows Presentation Foundation, Silverlight, Pixelsense, Windows 8, Windows Phone, XBOX and generally User...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 25: Jon Flanders</title>
+      <pubDate>Tue, 20 May 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[d2946af37b326bb36682b148826f1298]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-25-jon-flanders]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/5/2/7/0/52707256a8a1023b/jon-flanders.jpg" />
+      <description><![CDATA[<p>Jon is most at home spelunking, trying to figure out how things work from the inside out. Jon is the author of RESTful.NET from O'Reilly, as well as Essential ASP for Addison-Wesley, and was a co-author of Mastering Visual Studio.NET for O'Reilly. Jon is currently helping companies build applications for the iPhone and iPad using iOS.</p>]]></description>
+      <enclosure length="36670936" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode25.mp3" />
+      <itunes:duration>38:11</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Jon is most at home spelunking, trying to figure out how things work from the inside out. Jon is the author of RESTful.NET from O'Reilly, as well as Essential ASP for Addison-Wesley, and was a co-author of Mastering Visual Studio.NET for O'Reilly. Jon...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 24: Fritz Onion</title>
+      <pubDate>Mon, 12 May 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[cc1d50e4c7a1f2e8396fee1a244eb90e]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-24-fritz-onion]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/b/9/0/5/b905f8e543286ac7/fritz-onion.jpg" />
+      <description>
+        <![CDATA[<p>Fritz is a co-founder of Pluralsight where he serves as the Chief Content Officer. </p>
+<p>Fritz is the author of the book 'Essential ASP.NET' published by Addison Wesley, available in both C# and Visual Basic .NET editions, and 'Essential ASP.NET 2.0'. He is a past columnist for MSDN Magazine, and and has spoken at many industry conferences including the PDC, TechEd, and VSLive!. Prior to .NET, Fritz's work focused on Windows development with C++ and COM, and has written several courses and many articles on C++, MFC, COM, and ATL. Microsoft recognized Fritz as an MVP for over 5 years for his contributions to the ASP.NET community. </p>
+<p>Fritz lives in central Maine.</p>]]>
+      </description>
+      <enclosure length="32073763" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode24.mp3" />
+      <itunes:duration>33:24</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle>
+        <![CDATA[Fritz is a co-founder of Pluralsight where he serves as the Chief Content Officer. 
+Fritz is the author of the book 'Essential ASP.NET' published by Addison Wesley, available in both C# and Visual Basic .NET editions, and 'Essential ASP.NET...]]>
+      </itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 23: Phil Haack</title>
+      <pubDate>Mon, 05 May 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[5af5ae0c506fc86cd3f138919c15422e]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-23-phil-haack]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/c/3/7/0/c3701ae123a9c91e/phil-haack.jpg" />
+      <description>
+        <![CDATA[<p>Phil Haack (yes, it's pronounced "hack") works at GitHub finding ways to make it better for .NET and Windows developers everywhere. Prior to GitHub, he was a senior Program Manager at Microsoft responsible for shipping ASP.NET MVC, NuGet, among other projects. These projects were released under open source licenses and helped served as examples of the open source model for shipping software to other teams at Microsoft.</p>
+<p>Phil is a co-author of the popular Professional ASP.NET MVC series and regularly speaks at conferences around the world. He's also made several appearances on technology podcasts such as .NET Rocks, Hanselminutes, Herding Code, and The Official jQuery Podcast.</p>
+<p> </p>]]>
+      </description>
+      <enclosure length="40142117" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode23.mp3" />
+      <itunes:duration>42:34</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Phil Haack (yes, it's pronounced "hack") works at GitHub finding ways to make it better for .NET and Windows developers everywhere. Prior to GitHub, he was a senior Program Manager at Microsoft responsible for shipping ASP.NET MVC, NuGet, among other...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 22: Brad Wilson</title>
+      <pubDate>Mon, 28 Apr 2014 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[322afa79905de72aaa5d2cc72530dcb8]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-22-brad-wilson]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/e/e/1/0/ee100e411ebe3c2e/brad-wilson.jpg" />
+      <description>
+        <![CDATA[<p>Brad Wilson has been a software professional for more than 20 years, working as a consultant, developer, team lead, architect, and CTO. He is probably best known for his work on ASP.NET MVC and ASP.NET Web API during his 7 1/2 year tenure at Microsoft. Today, he calls CenturyLink Cloud his home, where he is a Technical Director working on their worldwide Infrastructure-as-a-Service and cloud management platform. He also is an active open source contributor to xUnit.net and ElasticLINQ.</p>
+<p> </p>
+<p>In his off hours, he's an avid musician, poker player, and photographer.</p>
+<p> </p>]]>
+      </description>
+      <enclosure length="32170056" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode22.mp3" />
+      <itunes:duration>33:30</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Brad Wilson has been a software professional for more than 20 years, working as a consultant, developer, team lead, architect, and CTO. He is probably best known for his work on ASP.NET MVC and ASP.NET Web API during his 7 1/2 year tenure at...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 21: Richard Campbell</title>
+      <pubDate>Mon, 21 Apr 2014 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[2f11e01e24c088cbce6fc84d19f69c56]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-21-richard-campbell]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/a/1/2/5/a125a9d4c39e3cbd/richard-campbell.jpg" />
+      <description>
+        <![CDATA[<p>Richard Campbell has more than 30 years of high-tech experience and is both a Microsoft Regional Director and Microsoft Most Valuable Professional (MVP). He has consulted with a number of leading North American organizations; Barnes&Noble.com, Dow Chemical, Johnson & Johnson Health Care Services, Reuters, Subaru/Isuzu and the U.S. Air Force.</p>
+<p>In addition to speaking at conferences around the world, Richard is co-host of '.NET Rocks!, the Internet Audio Talk Show for .NET Developers' and the host of 'RunAs Radio, the Internet Audio Talk Show for IT Professionals'.</p>]]>
+      </description>
+      <enclosure length="39728731" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode021.mp3" />
+      <itunes:duration>41:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Richard Campbell has more than 30 years of high-tech experience and is both a Microsoft Regional Director and Microsoft Most Valuable Professional (MVP). He has consulted with a number of leading North American organizations; Barnes&Noble.com, Dow...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 20: Scott Meyers</title>
+      <pubDate>Mon, 14 Apr 2014 13:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[89dd043ef92e432cc807eb2dd9cca668]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-20-scott-meyers]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/0/5/3/2/053208958ecdddc2/scott-meyers.jpg" />
+      <description>
+        <![CDATA[<p>Scott Meyers is one of the world's foremost authorities on C++.  He wrote the best-selling Effective C++ series (Effective C++, More Effective C++, and Effective STL); published and maintains the annotated training materials Overview of the New C++ (C++11/14) and Effective C++ in an Embedded Environment; is Consulting Editor for Addison Wesley's Effective Software Development Series, and, with Herb Sutter and Andrei Alexandrescu, is a principal in the conference-like event, C++ and Beyond. He has a Ph.D in Computer Science from Brown University.</p>
+<p>Scott is currently working on a new book, Effective Modern C++: 40 Specific Ways to Improve Your Use of C++11 and C++14, which he desperately hopes to finish by summer.</p>]]>
+      </description>
+      <enclosure length="37147078" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode20.mp3" />
+      <itunes:duration>38:40</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Scott Meyers is one of the world's foremost authorities on C++.  He wrote the best-selling Effective C++ series (Effective C++, More Effective C++, and Effective STL); published and maintains the annotated training materials Overview of the New...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 19: William Vaughn</title>
+      <pubDate>Mon, 07 Apr 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[6b2d8e75e15c805ff8a218a3035d4352]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-19-william-vaughn]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/f/0/b/4/f0b487fb757077a8/bill-vaughn.jpg" />
+      <description><![CDATA[<p>William R. Vaughn is the former principal of Beta V Corporation and Microsoft MVP who worked at Microsoft for fourteen years. His previous books include seven editions of the popular Hitchhiker's Guides (Microsoft Press, Addison Wesley), ADO Examples and Best Practices, and the bestseller ADO.NET Examples and Best Practices and a separate edition for C# Programmers (APress). Bill is a top-rated speaker at conferences worldwide, including VBits, Developer Connections and TechEd, and is the author of numerous articles for SQL Server Magazine, MSDN Online, and others. He’s currently lecturing for Progressive Business Technology doing online webinars on SQL Server Reporting Services.</p>]]></description>
+      <enclosure length="37460706" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode19.mp3" />
+      <itunes:duration>39:00</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[William R. Vaughn is the former principal of Beta V Corporation and Microsoft MVP who worked at Microsoft for fourteen years. His previous books include seven editions of the popular Hitchhiker's Guides (Microsoft Press, Addison Wesley), ADO Examples...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 18: Lynn Langit</title>
+      <pubDate>Mon, 31 Mar 2014 12:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[1d60d4269ef880cf60b3953ea2054841]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-18-lynn-langit]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/e/6/e/9/e6e94299cbca3589/lynn-langit.jpg" />
+      <description>
+        <![CDATA[<p>Lynn is the Founder of Lynn Langit Consulting.  There she has been designing and helping teams to implement Big Data solutions.  These solutions have included SQL Server 2012, Hadoop, MongoDB, AWS, Windows Azure and Google Cloud technologies.</p>
+<p>In 2013 she was awarded the MVP for SQL Server from Microsoft.  In 2012, 2013 and again in 2014 she was recognized by Google for her community education work around their commercial cloud and received the Google Developer Expert award for the Google Cloud. She is the author of 3 books on SQL Server Business Intelligence (OLAP) the most recent of which is 'Smart Business Intelligence with SQL Server 2008'/MSPress. Lynn is also the author of many articles on BigData Technologies.</p>
+<p> </p>]]>
+      </description>
+      <enclosure length="47756213" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode018.mp3" />
+      <itunes:duration>49:42</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Lynn is the Founder of Lynn Langit Consulting.  There she has been designing and helping teams to implement Big Data solutions.  These solutions have included SQL Server 2012, Hadoop, MongoDB, AWS, Windows Azure and Google Cloud...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 17: Jim Wilson</title>
+      <pubDate>Mon, 24 Mar 2014 00:34:36 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[c919d43954ca9c4ce099948d3b14232f]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-17-jim-wilson]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/0/9/a/d/09ad2c418e376757/jim-wilson.jpg" />
+      <description><![CDATA[<p>Jim Wilson is president of JW Hedgehog, Inc., a consulting firm specializing in solutions for the Android, iOS, and Microsoft platforms. Jim has nearly 30 years of software engineering experience with the past 12 years heavily focused on creating mobile device and location-based solutions. After nearly a decade as a Microsoft Device Application Development MVP, Jim now focuses on developing Android and iOS device applications. Jim has authored over 30 articles on device application development, and has developed mobility and smart client curriculums for several organizations. Although based in New Hampshire, Jim and his wife spend as much time as possible at their place in Celebration, Florida (just 3 miles from Walt Disney World). Checkout Jim’s blog where he talks about a variety of mobile development issues as well as the fun of life just 3 miles from the Home of The Mouse.</p>]]></description>
+      <enclosure length="24070700" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode17.mp3" />
+      <itunes:duration>25:03</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Jim Wilson is president of JW Hedgehog, Inc., a consulting firm specializing in solutions for the Android, iOS, and Microsoft platforms. Jim has nearly 30 years of software engineering experience with the past 12 years heavily focused on creating...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 16: Lars Klint</title>
+      <pubDate>Mon, 17 Mar 2014 07:16:18 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[b4a5271011f9c8662a68c8b29af7bb32]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-16-lars-klint]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/0/e/7/5/0e756f92aa47068f/lars-klint.jpg" />
+      <description><![CDATA[<p>Lars Klint suffers from split personality, as some would say. On the one hand he is a passionate programmer using the Microsoft Stack through .Net and C#. On the other hand he is a mad car guy. Lars loves to get his hands dirty and maintain his fleet of classic and off-road cars. When he is not in front of a phone, laptop, desktop or other gadget, he is out in the bush getting muddy or on a car club cruise. Lars has so far published two courses with Pluralsight: Building Windows Phone Apps that Stand Out and Windows Phone Testing and Error Management. As a frequent blogger, Lars has contributed articles to the Kiandra IT Blog, Nokia’s DVLUP portal and his own blog at klint.co, often presenting arguments that are not quite main stream, but with a dash of humour and a smidgen of cheekiness. If you want to ask Lars questions, suggest blog ideas, sell a car etc., shoot him an email or follow@larsklint on twitter.</p>]]></description>
+      <enclosure length="29000557" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode16.mp3" />
+      <itunes:duration>30:11</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Lars Klint suffers from split personality, as some would say. On the one hand he is a passionate programmer using the Microsoft Stack through .Net and C#. On the other hand he is a mad car guy. Lars loves to get his hands dirty and maintain his fleet...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 15: John Papa</title>
+      <pubDate>Mon, 10 Mar 2014 05:39:01 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[8883c48b108eae572db3e0a93377ac61]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-15-john-papa]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/9/2/e/9/92e9f4c99add02a6/john-papa.jpg" />
+      <description><![CDATA[<p>John Papa is a well-known technology expert and is a former Evangelist for Microsoft on the Silverlight, Windows Phone and Windows 8 client teams. John is a Microsoft Regional Director and author of 100+ articles and 10 books, specializes in professional application development with technologies including HTML5, JavaScript, CSS, Angular, Durandal, Silverlight, WPF, C#, and .NET. He can often be found speaking around the world at keynotes and sessions for conferences such as Build, MIX, PDC, TechEd, VSLive and AngleBrackets. John was the host of the popular show Silverlight TV on Channel 9 and hosted many events including the MIXer and Open Source Fest at major conferences. He currently enjoys authoring courses for Pluralsight. You can always find John at johnpapa.net or on twitter at @john_papa.</p>]]></description>
+      <enclosure length="32674493" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode15.mp3" />
+      <itunes:duration>34:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[John Papa is a well-known technology expert and is a former Evangelist for Microsoft on the Silverlight, Windows Phone and Windows 8 client teams. John is a Microsoft Regional Director and author of 100+ articles and 10 books, specializes in...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 14: Julie Lerman</title>
+      <pubDate>Wed, 05 Mar 2014 07:23:44 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[711aa8819077c2796fa67f391bf747ae]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-14-julie-lerman]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/5/f/6/0/5f60177d8336ce24/julie-lerman.jpg" />
+      <description><![CDATA[<p>Julie Lerman is a Microsoft MVP, .NET mentor and consultant who lives in the hills of Vermont. You can find Julie presenting on Entity Framework and other Microsoft .NET topics at user groups and conferences around the world. Julie blogs at thedatafarm.com/blog, is the author of the highly acclaimed “Programming Entity Framework” books, the MSDN Magazine Data Points column and popular videos on Pluralsight.com. Follow Julie on twitter at julielerman.</p>]]></description>
+      <enclosure length="35863632" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode14.mp3" />
+      <itunes:duration>37:21</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Julie Lerman is a Microsoft MVP, .NET mentor and consultant who lives in the hills of Vermont. You can find Julie presenting on Entity Framework and other Microsoft .NET topics at user groups and conferences around the world. Julie blogs at...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 13: K. Scott Allen</title>
+      <pubDate>Mon, 24 Feb 2014 07:36:23 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[b411042d877cae5486caacbfbf8a12bd]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-13-k-scott-allen]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/5/9/d/0/59d05be19e307521/k-scott-allen.jpg" />
+      <description>
+        <![CDATA[<p>Scott is a founder and Principal Consultant with OdeToCode LLC and the CTO at Medisolv Inc. He has 20+ years of commercial software development experience across a wide range of technologies. He’s successfully delivered software products for embedded, Windows, and web platforms. He’s also developed web services for Fortune 50 companies and firmware for startups.</p>
+<p>Scott is also a Pluralsight author, a host on the podcast Herding Code, written a few books, and spoken at conferences around the world.</p>
+<p> </p>]]>
+      </description>
+      <enclosure length="38547768" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode13.mp3" />
+      <itunes:duration>40:08</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Scott is a founder and Principal Consultant with OdeToCode LLC and the CTO at Medisolv Inc. He has 20+ years of commercial software development experience across a wide range of technologies. He’s successfully delivered software products for...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 12: Scott Hanselman</title>
+      <pubDate>Mon, 17 Feb 2014 07:19:59 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[28cebf041600d494b7b5e260899de874]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-12-scott-hanselman]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/f/d/f/7/fdf72561a06ac496/scott-hanselman.jpg" />
+      <description><![CDATA[<p>Scott is a web developer who has been blogging at http://hanselman.com for over a decade. He works in Open Source on ASP.NET and the Azure Cloud for Microsoft out of his home office in Portland, Oregon. Scott has three podcasts, http://hanselminutes.com for tech talk, http://thisdeveloperslife.com on developers' lives and loves, and http://ratchetandthegeek.com for pop culture and tech media. He's written a number of books and spoken in person to almost a half million developers worldwide.</p>]]></description>
+      <enclosure length="41617552" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode12.mp3" />
+      <itunes:duration>43:21</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Scott is a web developer who has been blogging at http://hanselman.com for over a decade. He works in Open Source on ASP.NET and the Azure Cloud for Microsoft out of his home office in Portland, Oregon. Scott has three podcasts,...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 11: Mary Jo Foley</title>
+      <pubDate>Mon, 10 Feb 2014 08:31:19 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[f7200badc0e22c678f53657dc6b23f31]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-11-mary-jo-foley]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/7/c/6/6/7c66779e785c31da/mary-jo-foley.jpg" />
+      <description><![CDATA[<p>Mary Jo has covered the tech industry for 30 years for a variety of publications and Web sites, and is a frequent guest on radio, TV and podcasts, speaking about all things Microsoft-related. She is the author of Microsoft 2.0: How Microsoft plans to stay relevant in the post-Gates era (John Wiley & Sons, 2008). Her primary blog is at allaboutmicrosoft.com on ZDNet. She also is the cohost of the Windows Weekly podcast on TWiT</p>]]></description>
+      <enclosure length="45909666" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode11.mp3" />
+      <itunes:duration>31:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Mary Jo has covered the tech industry for 30 years for a variety of publications and Web sites, and is a frequent guest on radio, TV and podcasts, speaking about all things Microsoft-related. She is the author of Microsoft 2.0: How Microsoft plans to...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 10: Michele Leroux Bustamante</title>
+      <pubDate>Mon, 27 Jan 2014 09:09:38 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[6ba98d91e0b21417c6b4af07255b3cbb]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-10-michele-leroux-bustamante]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/0/3/0/2/03025cd85feb9b15/michele-bustamante.jpg" />
+      <description>
+        <![CDATA[<p>Michele is a Managing Partner at Solliance, a Microsoft Regional Director and MVP.</p>
+<p>With 20 years of experience designing and implementing enterprise systems, Michele has held senior executive positions at several corporations, has assembled software development teams and implemented processes for all aspects of the software development lifecycle, and facilitated many successful large-scale enterprise application deployments. Michele specializes in scalable and secure web application and services architecture, cloud-enabled applications and operations, and identity & access management. Michele is a frequent conference presenter and keynote speaker, has chaired many conferences and events, and has been published regularly in several technology journals. Michele’s books include her best-selling book Learning WCF (O’Reilly, 2007/2009).</p>
+<div></div>]]>
+      </description>
+      <enclosure length="63338156" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode10.mp3" />
+      <itunes:duration>43:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle>
+        <![CDATA[Michele is a Managing Partner at Solliance, a Microsoft Regional Director and MVP.
+With 20 years of experience designing and implementing enterprise systems, Michele has held senior executive positions at several corporations, has assembled software...]]>
+      </itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 9: Glenn Block</title>
+      <pubDate>Mon, 20 Jan 2014 08:03:04 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[8806847543b4a589390a2c3d5360d420]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-9-glenn-block]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/6/8/0/1/68011d2ca5632100/glenn-block.jpg" />
+      <description><![CDATA[<p>Glenn is a product manager for Splunk's developer experience. In his spare time he is also the author and a maintainer of scriptcs, an OSS tool for C# scripting. A hardcore coder professionally for almost 20 years, he cares deeply about making developers' lives easier.  Previously Glenn worked at Microsoft where he kickstarted ASP.NET Web API and spearheaded Microsoft's node.js story on Azure. Glenn is an active contributor to  Node.js and .NET OSS projects, a supporter of the community, and a frequent speaker internationally on software development. He is also a bit of a Web API fanatic and author of a new OReilly book on the subject. He lives with his wife and daughter in Seattle where rain and caffeine are a plenty.</p>]]></description>
+      <enclosure length="64517822" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode9.mp3" />
+      <itunes:duration>44:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Glenn is a product manager for Splunk's developer experience. In his spare time he is also the author and a maintainer of scriptcs, an OSS tool for C# scripting. A hardcore coder professionally for almost 20 years, he cares deeply about making...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 8: Charles Petzold</title>
+      <pubDate>Tue, 14 Jan 2014 21:08:25 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[28d74ca218c46999ef47d476faadbf0c]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-8-charles-petzold]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/a/3/3/6/a33682cac90032b9/charles-petzold.jpg" />
+      <description>
+        <![CDATA[<p style="margin: 0px 0px 10px; color: #393939; font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 14px; line-height: 20px;">Charles Petzold has been writing about Windows programming for over a quarter century, and his most recent book, <a href="http://www.amazon.com/Programming-Windows-Writing-Apps-With/dp/0735671761" target="_blank" style="color: #556fa7; text-decoration: none;">Programming Windows, 6th Edition</a> (Microsoft Press, 2012) takes on Windows 8. He is currently writing the DirectX Factor column for MSDN Magazine.</p>
+<p style="margin: 0px 0px 10px; color: #393939; font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 14px; line-height: 20px;">Petzold is also the author of two unique books that explore the foundations of digital computing: <a href="http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319" target="_blank" style="color: #556fa7; text-decoration: none;">Code: The Hidden Language of Hardware and Software</a> (Microsoft Press, 1999) and <a href="http://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055" target="_blank" style="color: #556fa7; text-decoration: none;">The Annotated Turing: A Guided Tour through Alan Turing’s Historic Paper on Computability and the Turing Machine</a> (Wiley, 2008).</p>]]>
+      </description>
+      <enclosure length="61269380" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode8.mp3" />
+      <itunes:duration>42:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Charles Petzold has been writing about Windows programming for over a quarter century, and his most recent book, Programming Windows, 6th Edition (Microsoft Press, 2012) takes on Windows 8. He is currently writing the DirectX Factor column...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 7: Hadi Hariri</title>
+      <pubDate>Mon, 06 Jan 2014 08:27:18 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[407810134d8f41c375357e36a81fc4d6]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-7-hadi-hariri]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/7/9/2/4/7924a1de47f92346/logo.jpg" />
+      <description><![CDATA[<p><span style="font-size: 20.0pt; mso-bidi-font-size: 11.0pt; line-height: 107%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Hadi a Software Developer, who currently works at JetBrains. His passions include Web Development and Software Architecture. He’s written a few books and has been speaking at conferences for over a decade, on things he’s passionate about.</span></p>]]></description>
+      <enclosure length="55829014" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Episode7.mp3" />
+      <itunes:duration>38:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Hadi a Software Developer, who currently works at JetBrains. His passions include Web Development and Software Architecture. He’s written a few books and has been speaking at conferences for over a decade, on things he’s passionate about.]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 6: Ward Bell</title>
+      <pubDate>Mon, 30 Dec 2013 05:21:12 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[7057fa317a239703c203078dfbb7eb21]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-6-ward-bell]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/a/a/d/b/aadb4e838ff1b956/logo.jpg" />
+      <description><![CDATA[<p class="MsoNormal">Ward is a Microsoft MVP and the V.P. of Technology at IdeaBlade (www.ideablade.com), makers of the "DevForce" .NET application development product and BreezeJS. Ward often obsesses on client technologies for business applications, data access, and development practices.</p>]]></description>
+      <enclosure length="64716208" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/EP006_WardBell.mp3" />
+      <itunes:duration>44:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Ward is a Microsoft MVP and the V.P. of Technology at IdeaBlade (www.ideablade.com), makers of the "DevForce" .NET application development product and BreezeJS. Ward often obsesses on client technologies for business applications, data access, and...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 5: Jesse Liberty</title>
+      <pubDate>Mon, 16 Dec 2013 06:57:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[92fe7dd97d9366eaf6b3a5e38361d332]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-5-jesse-liberty]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/f/5/b/7/f5b78d4032500ef0/jesse-liberty.jpg" />
+      <description><![CDATA[<p>Jesse Liberty is a Master Consultant for Falafel Software, a Microsoft MVP, a Telerik MVP, an author, and he creates courses for Pluralsight.    Liberty hosts the popular Yet Another Podcast and his blog is considered required reading. He was a Senior Evangelist for Microsoft,  a XAML Evangelist for Telerik, a Distinguished Software Engineer at AT&T; Software Architect for PBS and Vice President of Information Technology at Citibank. Jesse can be followed on twitter at @JesseLiberty</p>]]></description>
+      <enclosure length="36875471" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/FullEpisode5.mp3" />
+      <itunes:duration>38:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Jesse Liberty is a Master Consultant for Falafel Software, a Microsoft MVP, a Telerik MVP, an author, and he creates courses for Pluralsight.    Liberty hosts the popular Yet Another Podcast and his blog is considered required reading. He...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 4: Brian Noyes</title>
+      <pubDate>Mon, 09 Dec 2013 04:56:39 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[30bae1d6edccbf12954d58d54d8cf4b1]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-4-brian-noyes]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/9/7/3/7/97370f11450f1e46/brian-noyes.jpg" />
+      <description><![CDATA[<p>Brian Noyes is a software architect, CTO of Solliance (www.solliance.net), Microsoft Regional Director, Microsoft MVP, and Pluralsight Author. Brian specializes in building rich client applications with XAML and HTML 5, as well as the services that back them with Web APIs and WCF Services. Brian has authored a number of books including Developers Guide to Microsoft Prism 4, Smart Client Deployment with ClickOnce, and Data Binding with Windows Forms 2.0, and speaks at conferences worldwide including Microsoft TechEd, VSLive!, DevIntersection, and others. Brian got started programming as a hobby while flying F-14 Tomcats in the U.S. Navy, later turning his passion for software into his current career. You can contact Brian on Twitter @briannoyes or through his blog http://briannoyes.net.</p>]]></description>
+      <enclosure length="30122587" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Final_004.mp3" />
+      <itunes:duration>31:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Brian Noyes is a software architect, CTO of Solliance (www.solliance.net), Microsoft Regional Director, Microsoft MVP, and Pluralsight Author. Brian specializes in building rich client applications with XAML and HTML 5, as well as the services that...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 3: Chris Sells</title>
+      <pubDate>Mon, 02 Dec 2013 07:40:45 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[97ba8740ec0f174c50a10be8f51ea8d7]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/episode-3-chris-sells]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/1/1/0/f/110f3cac025d6f3b/chris-sells.jpg" />
+      <description><![CDATA[<p>Chris Sells has a long history as a contributing member of the Windows developer community. He enjoys long walks on the beach and various computer technologies.</p>]]></description>
+      <enclosure length="37128064" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/E003Final.mp3" />
+      <itunes:duration>38:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Chris Sells has a long history as a contributing member of the Windows developer community. He enjoys long walks on the beach and various computer technologies.]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 2: Chris Woodruff</title>
+      <pubDate>Mon, 25 Nov 2013 03:28:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[faad7ae393c755579bf57ab7b4941a32]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/chris-woodruff-episode-2]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/a/4/6/c/a46ca15ee014f73a/WoodyMug.jpg" />
+      <description><![CDATA[<p class="MsoNormal" style="text-align: justify;"><span style="font-family: 'Calibri','sans-serif';">Chris Woodruff (or Woody as he is commonly known as) has a degree in Computer Science from Michigan State University’s College of Engineering. Woody has been developing and architecting software solutions for almost 15 years and has worked in many different platforms and tools. He is a community leader, helping such events as Day of .NET Ann Arbor, West Michigan Day of .NET and CodeMash. He was also instrumental in bringing the popular Give Camp event to Western Michigan where technology professionals lend their time and development expertise to assist local non-profits. As a speaker and podcaster, Woody has spoken and discussed a variety of topics, including database design and open source. He is a Microsoft MVP in Visual C# and was recognized in 2010 as one of the top 20 MVPs world-wide.<o:p></o:p></span></p>]]></description>
+      <enclosure length="23627625" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/Final_002.mp3" />
+      <itunes:duration>24:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle><![CDATA[Chris Woodruff (or Woody as he is commonly known as) has a degree in Computer Science from Michigan State University’s College of Engineering. Woody has been developing and architecting software solutions for almost 15 years and has worked in...]]></itunes:subtitle>
+    </item>
+    <item>
+      <title>Episode 1: Jeremy Likness</title>
+      <pubDate>Sun, 17 Nov 2013 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false"><![CDATA[5f853d052bd119a8e93c16fb1d721084]]></guid>
+      <link><![CDATA[http://hwpod.libsyn.com/jeremy-likness]]></link>
+      <itunes:image href="http://static.libsyn.com/p/assets/f/0/5/e/f05ef146380d1588/jeremyliknessbiopic.jpg" />
+      <description>
+        <![CDATA[<p>Jeremy Likness joins the Hello World Podcast to talk about how he got started! </p>
+<p>Jeremy Likness is a principal consultant at Wintellect. He has 20 years of experience building enterprise applications and specializes in delivering web-based solutions using the Microsoft stack with client technologies like TypeScript and AngularJS. A 4-time Microsoft MVP, Jeremy is the author of several books that cover XAML technologies like Silverlight and Windows 8.1 and speaks frequently at user group events and conferences. Jeremy lives in Woodstock, GA with his wife, daughter, three dogs and an Ecclectus parrot. He loves hiking, running, skiing, shooting guns and shooting pool (9-ball is his favorite game). </p>
+<p class="MsoNormal">Twitter: <a href="http://twitter.com/jeremylikness">http://twitter.com/jeremylikness</a> <o:p></o:p></p>
+<p class="MsoNormal">Blog: <a href="http://csharperimage.jeremylikness.com/">http://csharperimage.jeremylikness.com/</a> <o:p></o:p></p>
+<p></p>
+<p class="MsoNormal">Book: <a href="http://bit.ly/winrtexample">http://bit.ly/winrtexample</a> <o:p></o:p></p>]]>
+      </description>
+      <enclosure length="28742889" type="audio/mpeg" url="http://traffic.libsyn.com/hwpod/EP001-Final.mp3" />
+      <itunes:duration>29:55</itunes:duration>
+      <itunes:explicit>clean</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle>
+        <![CDATA[Jeremy Likness joins the Hello World Podcast to talk about how he got started! 
+Jeremy Likness is a principal consultant at Wintellect. He has 20 years of experience building enterprise applications and specializes in delivering web-based...]]>
+      </itunes:subtitle>
+    </item>
+  </channel>
+</rss>

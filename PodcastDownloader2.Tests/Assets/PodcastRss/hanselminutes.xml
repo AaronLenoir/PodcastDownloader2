@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <ttl>30</ttl>
+    <title>Hanselminutes</title>
+    <link>http://www.hanselminutes.com</link>
+    <language>en-us</language>
+    <description>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</description>
+    <copyright>Copyright © 2006-2016 by Pwop Productions</copyright>
+    <managingEditor>scott@hanselman.com (Scott Hanselman) (Scott Hanselman)</managingEditor>
+    <webMaster>scott@hanselman.com (Scott Hanselman) (Scott Hanselman)</webMaster>
+    <rating>G</rating>
+    <pubDate>Mon, 15 Feb 2016 00:00:00 EST</pubDate>
+    <lastBuildDate>Thu, 21 Jul 2016 00:00:00 EST</lastBuildDate>
+    <cloud domain="http://www.hanselminutes.com" port="80" path="/RPC2" registerProcedure="pingMe" protocol="soap"></cloud>
+    <atom:link href="http://www.pwop.com%2ffeed.aspx%3fshow%3dHanselminutes" rel="self" type="application/rss+xml" />
+    <image>
+      <url>http://www.pwop.com/itunes_hanselminutes.jpg</url>
+      <title>Hanselminutes</title>
+      <link>http://www.hanselminutes.com</link>
+      <width>144</width>
+      <height>300</height>
+      <description>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</description>
+    </image>
+    <category>Programming</category>
+    <category>Talk</category>
+    <category>ASP.NET</category>
+    <category>Podcast</category>
+    <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Scott Hanselman</itunes:author>
+    <itunes:summary>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Scott Hanselman</itunes:name>
+      <itunes:email>scott@hanselman.com (Scott Hanselman)</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://www.pwop.com/itunes_hanselminutes.jpg" />
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" />
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Gadgets" />
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" />
+    </itunes:category>
+    <item>
+      <title>New Development on Old Systems: Exploring the NES in 2016 with Rachel Simone Weil</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18524</link>
+      <pubDate>Fri, 22 Jul 2016 00:00:00 EDT</pubDate>
+      <description>Rachel Simone Weil thinks in 6502 Assembly and loves to program on the Nintendo Entertainment System. Yes, that's the NES and yes, it's 2016! She's created a number of amazing NEW apps including the world's first connected Twitter client for NES.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18524">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18524</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Rachel Simone Weil thinks in 6502 Assembly and loves to program on the Nintendo Entertainment System. Yes, that's the NES and yes, it's 2016! She's created a number of amazing NEW apps including the world's first connected Twitter client for NES.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0537.mp3" length="35838685" type="audio/mp3" />
+      <itunes:duration>00:37:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Exploring the Orleans Distributed Virtual Actor Model with Richard Astbury</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18523</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 EDT</pubDate>
+      <description>The open source Orleans project is behind some massive systems including Halo itself. Is the virtual actor model the revolution it appears to be? How does this relate to the models of the best, as well as things like Akka and Service Fabric? Richard Astbury does his best to set Scott straight in this episode.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18523">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18523</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>The open source Orleans project is behind some massive systems including Halo itself. Is the virtual actor model the revolution it appears to be? How does this relate to the models of the best, as well as things like Akka and Service Fabric? Richard Astbury does his best to set Scott straight in this episode.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0536.mp3" length="34008567" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Machine Learning for all with TensorFlow with Andy Kitchen</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18522</link>
+      <pubDate>Fri, 08 Jul 2016 00:00:00 EDT</pubDate>
+      <description>Andy Kitchen is a consultant and researcher in machine learning specializing in neural networks. He sits down with Scott and explains why Machine Learning matters, and why you and I should start learning it ourselves, right away, with TensorFlow!</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18522">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18522</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Andy Kitchen is a consultant and researcher in machine learning specializing in neural networks. He sits down with Scott and explains why Machine Learning matters, and why you and I should start learning it ourselves, right away, with TensorFlow!</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0535.mp3" length="33126965" type="audio/mp3" />
+      <itunes:duration>00:34:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Creating cross-platform Electron apps with Jessica Lord</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18521</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 EDT</pubDate>
+      <description>Jessica Lord works at GitHub on the Electron framework. Is Electron "just Chrome in a frame" or is it so much more? Jessica sets Scott on the right path and explains exactly where the Electron platform fits into your development world. </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18521">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18521</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Jessica Lord works at GitHub on the Electron framework. Is Electron "just Chrome in a frame" or is it so much more? Jessica sets Scott on the right path and explains exactly where the Electron platform fits into your development world. </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0534.mp3" length="30798139" type="audio/mp3" />
+      <itunes:duration>00:31:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Building remote-first teams with Karolina Szczur</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18520</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 EDT</pubDate>
+      <description>Karolina has often been on remote teams. Whether it's working from Europe or Australia, working 10 time zones away or just a few, she's developed a number of tips and tricks for surviving (and thriving!) while working remote. Can we build our tech teams "remote-first?" </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18520">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18520</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Karolina has often been on remote teams. Whether it's working from Europe or Australia, working 10 time zones away or just a few, she's developed a number of tips and tricks for surviving (and thriving!) while working remote. Can we build our tech teams "remote-first?" </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0533.mp3" length="35373433" type="audio/mp3" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Data Literacy and the usefulness of Excel with Oz du Soleil</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18519</link>
+      <pubDate>Fri, 17 Jun 2016 00:00:00 EDT</pubDate>
+      <description>With all this talk of Big Data, this episode we go smaller. Oz du Soleil has built his career on Excel. He feels that there isn't enough data literacy in our industry. While you're writing SQL queries, do you know where you data comes from? Is it clean and is it valid? Where does Excel and tools like it fit into the data-focused world of 2016?</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18519">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18519</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>With all this talk of Big Data, this episode we go smaller. Oz du Soleil has built his career on Excel. He feels that there isn't enough data literacy in our industry. While you're writing SQL queries, do you know where you data comes from? Is it clean and is it valid? Where does Excel and tools like it fit into the data-focused world of 2016?</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0532.mp3" length="32920535" type="audio/mp3" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Living Functional Programming with OCaml and Gina Marie Maini</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18518</link>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 EDT</pubDate>
+      <description>Gina Marie Maini is a functional programer. She's the most totally amped functional programmer I've ever met, and she told me that OCaml was wonderful. Today Gina tries to get me to accept OCaml and functional programming as the way and the light.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18518">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18518</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Gina Marie Maini is a functional programer. She's the most totally amped functional programmer I've ever met, and she told me that OCaml was wonderful. Today Gina tries to get me to accept OCaml and functional programming as the way and the light.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0531.mp3" length="35605045" type="audio/mp3" />
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Native apps using NativeScript with Jen Looper</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18517</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 EDT</pubDate>
+      <description>NativeScript lets you build truly native iOS, Android and Windows Phone apps with Javascript and CSS. How is it different from Xamarin? What about Cordova? How can we tell what's "native" and what's not, and honestly, when should we care? Scott talks to Jen Looper about the NativeScript OSS project.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18517">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18517</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>NativeScript lets you build truly native iOS, Android and Windows Phone apps with Javascript and CSS. How is it different from Xamarin? What about Cordova? How can we tell what's "native" and what's not, and honestly, when should we care? Scott talks to Jen Looper about the NativeScript OSS project.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0530.mp3" length="31577633" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Bootstrapping a hardware startup: Creating Tinsel with Aniyia L. Williams</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18516</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 EDT</pubDate>
+      <description>Aniyia L. Williams saw a gap in the market and a product that needed to be created. Tinsel creates tech jewelry to ensure that fashion-savvy women can enjoy technology without sacrificing their style. How did Aniyia bootstrap her hardware startup? She explains the concept, funding, prototypes, development, and manufacturing on this episode.</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18516">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18516</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Aniyia L. Williams saw a gap in the market and a product that needed to be created. Tinsel creates tech jewelry to ensure that fashion-savvy women can enjoy technology without sacrificing their style. How did Aniyia bootstrap her hardware startup? She explains the concept, funding, prototypes, development, and manufacturing on this episode.</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0529.mp3" length="32852008" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>The Aurelia JavaScript Framework with Rob Eisenberg</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18515</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 EDT</pubDate>
+      <description>Rob Eisenberg is the creator of the Aurelia JavaScript framework.  This open source framework is a reimagining of how we create rich apps in the browser.  Is this the framework that you were looking for? How does it compare to others?</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18515">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18515</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Rob Eisenberg is the creator of the Aurelia JavaScript framework.  This open source framework is a reimagining of how we create rich apps in the browser.  Is this the framework that you were looking for? How does it compare to others?</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0528.mp3" length="35239039" type="audio/mp3" />
+      <itunes:duration>00:35:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Practical Containers for Developers with Aja Hammerly</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18514</link>
+      <pubDate>Fri, 13 May 2016 00:00:00 EDT</pubDate>
+      <description>There's so much talk about containers as it's clearly the buzzword today. Rather than doing a deep dive into container tech, Scott talks to Aja Hammerly about what containers really means to us as developers. How do containers change our workflow? Is the promise of cloud portability real? </description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18514">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18514</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>There's so much talk about containers as it's clearly the buzzword today. Rather than doing a deep dive into container tech, Scott talks to Aja Hammerly about what containers really means to us as developers. How do containers change our workflow? Is the promise of cloud portability real? </itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0527.mp3" length="30707818" type="audio/mp3" />
+      <itunes:duration>00:31:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Punishment Driven Development with Louise Elliott</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18513</link>
+      <pubDate>Fri, 06 May 2016 00:00:00 EDT</pubDate>
+      <description>Scott sits down with software developer and development manager Louise Elliott about her ideas around "Punishment Driven Development." Why is this such a common way to run a project? Does it work and is it ever appropriate?</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18513">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18513</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott sits down with software developer and development manager Louise Elliott about her ideas around "Punishment Driven Development." Why is this such a common way to run a project? Does it work and is it ever appropriate?</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0526.mp3" length="28271534" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Funding Open Source with Nadia Eghbal</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18512</link>
+      <pubDate>Fri, 29 Apr 2016 00:00:00 EDT</pubDate>
+      <description>Former VC Nadia Eghbal is exploring the world of open source and how tech gets funded. Her investigative work is currently supported by The Ford Foundation as she explores the way that the public infrastructure of the Internet gets built. She talks with Scott about how Open Source Software gets funded!</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18512">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18512</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Former VC Nadia Eghbal is exploring the world of open source and how tech gets funded. Her investigative work is currently supported by The Ford Foundation as she explores the way that the public infrastructure of the Internet gets built. She talks with Scott about how Open Source Software gets funded!</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0525.mp3" length="32682717" type="audio/mp3" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Investing in Underrepresented Tech Founders with Arlan Hamilton</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18511</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 EDT</pubDate>
+      <description>Arlan Hamilton is the Founder and Managing Partner of Backstage Capital,  a seed investment fund that backs high-potential, underrepresented startup founders. She talks to Scott about how starting a fund works, how much money one needs to invest, and demystifies many of the buzzwords around investing in tech today!</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18511">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18511</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Arlan Hamilton is the Founder and Managing Partner of Backstage Capital,  a seed investment fund that backs high-potential, underrepresented startup founders. She talks to Scott about how starting a fund works, how much money one needs to invest, and demystifies many of the buzzwords around investing in tech today!</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0524.mp3" length="33416611" type="audio/mp3" />
+      <itunes:duration>00:34:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Creating the Belter Language for Syfy</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18510</link>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 EDT</pubDate>
+      <description>Nick Farmer is best known for developing the Belter constructed language (conlang) for Syfy’s The Expanse. What's involved in creating a convincing constructed language? How real are these languages?</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18510">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18510</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Nick Farmer is best known for developing the Belter constructed language (conlang) for Syfy’s The Expanse. What's involved in creating a convincing constructed language? How real are these languages?</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0523.mp3" length="35086358" type="audio/mp3" />
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>Failure - "What if you fake it and don</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18509</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 EDT</pubDate>
+      <description>Scott talks to web developer and entrepreneur Kronda Adair about her business and her recent failure. How do projects fail and what do we do with that failure? Can failure be a motivator or does it slow us down? How can we turn lemons into lemonade as technologists?</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18509">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18509</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott talks to web developer and entrepreneur Kronda Adair about her business and her recent failure. How do projects fail and what do we do with that failure? Can failure be a motivator or does it slow us down? How can we turn lemons into lemonade as technologists?</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0522.mp3" length="35247084" type="audio/mp3" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>March Is For Makers: Arduinos, JavaScript, and Johnny-Five with Lyza Danger Gardner</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18508</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 EDT</pubDate>
+      <description>Scott sits down and talks with Lyza Gardner, CTO of Cloud Four and long-time web expert, about her recent explorations into hardware using the Johnny-Five Framework. You can control Arduinos and other devices and make robots with brains written with Node.js and JavaScript! Is this the framework we've been waiting for?</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18508">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18508</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Scott sits down and talks with Lyza Gardner, CTO of Cloud Four and long-time web expert, about her recent explorations into hardware using the Johnny-Five Framework. You can control Arduinos and other devices and make robots with brains written with Node.js and JavaScript! Is this the framework we've been waiting for?</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0521.mp3" length="33069789" type="audio/mp3" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>March Is For Makers: Modulo and Modular Electronics with Erin Tomson</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18507</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 EDT</pubDate>
+      <description>Erin Tomson left Pixar after 13 years to pursue something totally new! Her hardware startup called "Modulo" brings plug and play flexibility to the world of microcontrollers like Arduino and Particle. How did she get started and make the move from 3D software to modular hardware?</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18507">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18507</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Erin Tomson left Pixar after 13 years to pursue something totally new! Her hardware startup called "Modulo" brings plug and play flexibility to the world of microcontrollers like Arduino and Particle. How did she get started and make the move from 3D software to modular hardware?</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0520.mp3" length="32649298" type="audio/mp3" />
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>March Is For Makers: Arrow.com Electrical Engineer Laura Hughes</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18506</link>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 EDT</pubDate>
+      <description>This week Scott talks to to electrical engineer Laura Hughes from Arrow.com. Laura specializes in lighting and power supply design and can solve pretty much any problem with an LED. Laura schools Scott on a number of electrical issues and they come up with an epic new project idea!</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18506">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18506</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>This week Scott talks to to electrical engineer Laura Hughes from Arrow.com. Laura specializes in lighting and power supply design and can solve pretty much any problem with an LED. Laura schools Scott on a number of electrical issues and they come up with an epic new project idea!</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0519.mp3" length="30016891" type="audio/mp3" />
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+    <item>
+      <title>March Is For Makers: Arduinos and Useless Robots with Simone Giertz</title>
+      <link>http://www.hanselminutes.com/default.aspx?ShowID=18505</link>
+      <pubDate>Fri, 11 Mar 2016 00:00:00 EDT</pubDate>
+      <description>Simone Giertz is a Maker, a robotics enthusiast and surprisingly (her words!) a non-engineer. She's become somewhat of an expert in sh*tty robots and we love her for it. Also, she happens to be Swedish but sounds totally American just to confuse us. Scott talks about how she gets her inspiration and how she got started!</description>
+      <source url="http://www.hanselminutes.com/default.aspx?ShowID=18505">Hanselminutes</source>
+      <guid isPermaLink="true">http://www.hanselminutes.com/default.aspx?ShowID=18505</guid>
+      <itunes:author>Scott Hanselman</itunes:author>
+      <itunes:subtitle>Hanselminutes - Fresh Air for Developers is a weekly talk show that brings interesting people together to talk about the web, culture, education, technology and more. Hosted by Scott Hanselman, this show promises fresh ideas and great people.</itunes:subtitle>
+      <itunes:summary>Simone Giertz is a Maker, a robotics enthusiast and surprisingly (her words!) a non-engineer. She's become somewhat of an expert in sh*tty robots and we love her for it. Also, she happens to be Swedish but sounds totally American just to confuse us. Scott talks about how she gets her inspiration and how she got started!</itunes:summary>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/s3.amazonaws.com/hanselminutes/hanselminutes_0518.mp3" length="32668882" type="audio/mp3" />
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+  </channel>
+</rss>

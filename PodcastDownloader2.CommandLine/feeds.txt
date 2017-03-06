@@ -1,0 +1,19 @@
+﻿http://feeds.nature.com/nature/podcast/current?format=xml Nature 
+http://www.pwop.com/feed.aspx?show=dotnetrocks&filetype=master dotnetrocks
+http://www.physicscentral.com/about/feed/podcasts.cfm?outputXML Physics Central Podcast
+http://dhenage.libsyn.com/rss Cryptogram
+http://feeds.podtrac.com/9dPm65vdpLL1 hanselminutes
+https://feeds.feedburner.com/HerdingCode?format=xml Herding Code
+http://securityweekly.com/podcast/psw.xml Security Weekly
+http://rss.sciam.com/sciam/science-talk?format=xml Scientific American Science Talk
+http://rss.sciam.com/sciam/60secsciencepodcast?format=xml Scientific American 60 second science
+http://rss.sciam.com/sciam/60-second-space?format=xml Scientific American 60 second space
+http://rss.sciam.com/sciam/60-second-tech?format=xml Scientific American 60 second tech
+https://feeds.feedburner.com/se-radio?format=xml Software Engineering Radio
+http://feeds.wnyc.org/radiolab?format=xml radiolab
+http://hwpod.libsyn.com/rss Hello world podcast
+https://feeds.feedburner.com/ThisDevelopersLife?format=xml This developer's life
+http://feeds.soundcloud.com/users/soundcloud:users:38128127/sounds.rss startalk
+http://feeds.5by5.tv/changelog The changelog
+https://feeds.soundcloud.com/users/soundcloud:users:215740450/sounds.rss The InfoQ Podcast
+http://risky.biz/feeds/risky-business Risky Business

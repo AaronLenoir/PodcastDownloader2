@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://rss.sciam.com/~d/styles/itemcontent.css"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    <title>Scientific American Podcast: Science Talk</title>
+    <link>http://www.scientificamerican.com</link>
+    <description>Science news and technology updates from Scientific American</description>
+    <webmaster>webmaster@sciam.com</webmaster>
+    <pubDate>Fri, 22 Jul 2016 22:30:52 GMT</pubDate>
+    <language>en-us</language>
+    <copyright>Scientific American, a Division of Nature America, Inc.</copyright>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.sciam.com/sciam/science-talk" />
+    <feedburner:info uri="sciam/science-talk" />
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+    <item>
+      <title>Electric Eels versus Horses: Shocking but True</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/22xyixl1tPc/</link>
+      <guid isPermaLink="false">B4D521ED-405B-4D99-9CB7F5C7C7EEAFD4</guid>
+      <pubDate>Mon, 27 Jun 2016 20:08:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/1277AF3A-0699-4642-856EAC1153805D55.jpg" fileSize="124609" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:description type="html"><![CDATA[Historic illustration of Alexander von Humboldt's story of the battle between horses and electric eels.]]></media:description>
+        <media:credit type="html"><![CDATA[Public Domain]]></media:credit>
+      </media:content>
+      <dc:creator>Cynthia Graber</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=6DD35181-36A1-4FD3-B02CA2C574E9BB63" length="" type="audio/mpeg" />
+      <category>Environment</category>
+      <category>Electronics</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Biology</category>
+      <category>Evolution</category>
+      <category>Physics</category>
+      <description>
+        Kenneth Catania of Vanderbilt University talks to Cynthia Graber about electric eel research that led him to accept 19th-century naturalist Alexander von Humboldt's account of electric eels attacking...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=22xyixl1tPc:1v0Ts1o3C2s:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=22xyixl1tPc:1v0Ts1o3C2s:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=22xyixl1tPc:1v0Ts1o3C2s:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=22xyixl1tPc:1v0Ts1o3C2s:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=22xyixl1tPc:1v0Ts1o3C2s:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=22xyixl1tPc:1v0Ts1o3C2s:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=22xyixl1tPc:1v0Ts1o3C2s:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=22xyixl1tPc:1v0Ts1o3C2s:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/22xyixl1tPc" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/electric-eels-versus-horses-shocking-but-true/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Tiger, Tiger, Being Tracked</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/FzF6GGjTwEc/</link>
+      <guid isPermaLink="false">A5176778-BFE6-4394-911DB6C68AB25AEF</guid>
+      <pubDate>Thu, 16 Jun 2016 22:35:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/6FA3A67A-8424-4F7F-9AD3E39077EFB769.jpg" fileSize="257931" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:credit type="html"><![CDATA[Steve Mirsky and K. Ullas Karanth]]></media:credit>
+      </media:content>
+      <dc:creator>K. Ullas Karanth</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=D1EA4586-5548-4FAE-B78921A0A7E19735" length="" type="audio/mpeg" />
+      <category>Sustainability</category>
+      <category>Conservation</category>
+      <category>EARTH</category>
+      <category>Environment</category>
+      <category>Computing</category>
+      <category>Electronics</category>
+      <category>The Sciences</category>
+      <category>Biology</category>
+      <category>Policy &amp; Ethics</category>
+      <description>
+        Wildlife Conservation Society researcher Ullas Karanth talks about his July, 2016, Scientific American article on state-of-the-art techniques for tracking tigers and estimating their populations and...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=FzF6GGjTwEc:K4n_mG1qxts:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=FzF6GGjTwEc:K4n_mG1qxts:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=FzF6GGjTwEc:K4n_mG1qxts:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=FzF6GGjTwEc:K4n_mG1qxts:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=FzF6GGjTwEc:K4n_mG1qxts:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=FzF6GGjTwEc:K4n_mG1qxts:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=FzF6GGjTwEc:K4n_mG1qxts:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=FzF6GGjTwEc:K4n_mG1qxts:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/FzF6GGjTwEc" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/tiger-tiger-being-tracked/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Gravitational Wave Scientists Astounded--by Your Interest</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/dnmtEqQKmho/</link>
+      <guid isPermaLink="false">1DD915C7-FD64-463D-AD95F1DC8DDA70E8</guid>
+      <pubDate>Tue, 14 Jun 2016 21:40:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/15BA0174-0619-4BC1-B895B1002C5D4BCA.jpeg" fileSize="207523" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:description type="html"><![CDATA[The Laser Interferometer Gravitational-Wave Observatory (LIGO) discovered ripples in space-time created by merging black holes.]]></media:description>
+        <media:credit type="html"><![CDATA[Caltech]]></media:credit>
+      </media:content>
+      <dc:creator>Clara Moskowitz</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=732B930F-8E5A-4DE3-985226755EE66699" length="" type="audio/mpeg" />
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Physics</category>
+      <category>Space</category>
+      <description>
+        Caltech&amp;rsquo;s Kip Thorne and Ronald Drever and MIT&amp;rsquo;s Rainer Weiss were the founders of the LIGO experiment that detected gravitational waves. They were just awarded the Kavli Prize in...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=dnmtEqQKmho:gJBLiEdxikE:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=dnmtEqQKmho:gJBLiEdxikE:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=dnmtEqQKmho:gJBLiEdxikE:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=dnmtEqQKmho:gJBLiEdxikE:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=dnmtEqQKmho:gJBLiEdxikE:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=dnmtEqQKmho:gJBLiEdxikE:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=dnmtEqQKmho:gJBLiEdxikE:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=dnmtEqQKmho:gJBLiEdxikE:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/dnmtEqQKmho" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/gravitational-wave-scientists-astounded-by-your-interest/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Sean M. Carroll Looks at The Big Picture</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/LIjYfZzFzFo/</link>
+      <guid isPermaLink="false">20A4FD55-BAED-43A0-A7618D04B70DB4B6</guid>
+      <pubDate>Thu, 12 May 2016 21:29:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/8208D92B-EDE8-4F9C-B4C6AF0914AC28B3.jpg" fileSize="197839" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:credit type="html"><![CDATA[Getty Images/iStockphoto/Thinkstock (MARS)]]></media:credit>
+      </media:content>
+      <dc:creator>Sean M. Carroll</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=76531597-C7D0-46DB-BAC129F111B99A1C" length="" type="audio/mpeg" />
+      <category>Mind</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Biology</category>
+      <category>Chemistry</category>
+      <category>Evolution</category>
+      <category>Math</category>
+      <category>Physics</category>
+      <category>Space</category>
+      <description>
+        Caltech theoretical physicist Sean M. Carroll talks about his new book The Big Picture: On the Origins of Life, Meaning, and the Universe Itself. (Dutton, 2016)
+
+        &amp;nbsp;&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=LIjYfZzFzFo:EBqIKvD3Qmo:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=LIjYfZzFzFo:EBqIKvD3Qmo:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=LIjYfZzFzFo:EBqIKvD3Qmo:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=LIjYfZzFzFo:EBqIKvD3Qmo:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=LIjYfZzFzFo:EBqIKvD3Qmo:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=LIjYfZzFzFo:EBqIKvD3Qmo:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=LIjYfZzFzFo:EBqIKvD3Qmo:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=LIjYfZzFzFo:EBqIKvD3Qmo:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/LIjYfZzFzFo" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/sean-m-carroll-looks-at-the-big-picture/</feedburner:origLink>
+    </item>
+    <item>
+      <title>The Bowling Ball That Invaded Earth</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/DVxGuAZTsSY/</link>
+      <guid isPermaLink="false">2771AE65-018C-416C-A0F7C82E4A2759DA</guid>
+      <pubDate>Thu, 05 May 2016 22:42:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/CB1229FE-EB88-4FCB-9F47B0431B2056D5.jpg" fileSize="85525" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:credit type="html"><![CDATA[Getty Images/iStockphoto/Thinkstock (MARS)]]></media:credit>
+      </media:content>
+      <dc:creator>Mark Alpert</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=3F1800DF-34BD-43D5-BEA4599FE07CBEB9" length="" type="audio/mpeg" />
+      <category>EARTH</category>
+      <category>Tech</category>
+      <category>Aerospace</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Biology</category>
+      <category>Chemistry</category>
+      <category>Evolution</category>
+      <category>Physics</category>
+      <category>Space</category>
+      <description>
+        Former Scientific American editor Mark Alpert talks about his latest science fiction thriller, The Orion Plan, featuring the method whereby aliens most likely really would colonize our planet.
+
+        &amp;nbsp;&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DVxGuAZTsSY:gPlxw9Bdgmo:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DVxGuAZTsSY:gPlxw9Bdgmo:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DVxGuAZTsSY:gPlxw9Bdgmo:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DVxGuAZTsSY:gPlxw9Bdgmo:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=DVxGuAZTsSY:gPlxw9Bdgmo:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DVxGuAZTsSY:gPlxw9Bdgmo:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DVxGuAZTsSY:gPlxw9Bdgmo:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DVxGuAZTsSY:gPlxw9Bdgmo:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/DVxGuAZTsSY" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/the-bowling-ball-that-invaded-earth/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Different Minds: The Wide World of Animal Smarts</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/P-r3u_2wt9g/</link>
+      <guid isPermaLink="false">4AE4676B-45CB-4A83-99EDCC4D108D411C</guid>
+      <pubDate>Fri, 29 Apr 2016 16:45:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/0B2B9FBC-9892-48C4-BA1E59B830AD52EE.jpg" fileSize="84217" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:credit type="html"><![CDATA[&copy; Royalty-Free/Corbis (MARS)]]></media:credit>
+      </media:content>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=A90E8E39-6C33-4A07-A5F16F981C4BA44F" length="" type="audio/mpeg" />
+      <category>Mind</category>
+      <category>Behavior &amp; Society</category>
+      <category>Cognition</category>
+      <category>Conservation</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Biology</category>
+      <description>
+        Primatologist Frans de Waal discusses his latest book, Are We Smart Enough to Know How Smart Animals Are? (Norton, 2016).
+
+        &amp;nbsp;&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=P-r3u_2wt9g:_-VtNvL_cIY:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=P-r3u_2wt9g:_-VtNvL_cIY:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=P-r3u_2wt9g:_-VtNvL_cIY:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=P-r3u_2wt9g:_-VtNvL_cIY:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=P-r3u_2wt9g:_-VtNvL_cIY:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=P-r3u_2wt9g:_-VtNvL_cIY:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=P-r3u_2wt9g:_-VtNvL_cIY:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=P-r3u_2wt9g:_-VtNvL_cIY:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/P-r3u_2wt9g" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/different-minds-the-wide-world-of-animal-smarts/</feedburner:origLink>
+    </item>
+    <item>
+      <title>The Perfect Bet: Taking the Gambling out of Gambling</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/DcxWJOw8BuE/</link>
+      <guid isPermaLink="false">C6B4214E-2F0A-42A9-A60547322F636559</guid>
+      <pubDate>Thu, 14 Apr 2016 23:46:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/AB71C371-FF73-4C1C-8F43FBDD4995A648.jpg" fileSize="3550292" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+      </media:content>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=52E4B93E-A336-43B7-B8FB9418B7433C86" length="" type="audio/mpeg" />
+      <category>Public Health</category>
+      <category>Mind</category>
+      <category>Behavior &amp; Society</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Math</category>
+      <category>Policy &amp; Ethics</category>
+      <description>
+        Mathematician and author Adam Kucharski talks about his new book The Perfect Bet: How Science and Math Are Taking the Luck Out of Gambling (Basic Books, 2016).
+
+        &amp;nbsp;&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DcxWJOw8BuE:FN-KYzoyS5I:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DcxWJOw8BuE:FN-KYzoyS5I:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DcxWJOw8BuE:FN-KYzoyS5I:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DcxWJOw8BuE:FN-KYzoyS5I:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=DcxWJOw8BuE:FN-KYzoyS5I:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DcxWJOw8BuE:FN-KYzoyS5I:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DcxWJOw8BuE:FN-KYzoyS5I:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=DcxWJOw8BuE:FN-KYzoyS5I:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/DcxWJOw8BuE" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/the-perfect-bet-taking-the-gambling-out-of-gambling/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Gorilla's Hum Is a Do-Not-Disturb Sign</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/Qbd6V55k2qg/</link>
+      <guid isPermaLink="false">75931703-4715-4F72-B5908CE01A2C08A6</guid>
+      <pubDate>Mon, 29 Feb 2016 18:54:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/E808AF1C-CD00-4CBE-9009C88884E9C2EB.jpg" fileSize="2741403" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:credit type="html"><![CDATA[Getty Images/iStockphoto/Thinkstock Images (MARS)]]></media:credit>
+      </media:content>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <dc:creator>Daisy Yuhas</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=D83BB64F-FBE5-4127-99573B8BB19AC92D" length="" type="audio/mpeg" />
+      <category>Mind</category>
+      <category>Conservation</category>
+      <category>Environment</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Biology</category>
+      <category>Evolution</category>
+      <description>
+        If a socially prominent gorilla is in the midst of a meal, it may hum or sing to tell others nearby that it's busy at the moment and will get back to you later.
+
+        &amp;nbsp;&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=Qbd6V55k2qg:5RfptAP8QkU:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=Qbd6V55k2qg:5RfptAP8QkU:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=Qbd6V55k2qg:5RfptAP8QkU:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=Qbd6V55k2qg:5RfptAP8QkU:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=Qbd6V55k2qg:5RfptAP8QkU:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=Qbd6V55k2qg:5RfptAP8QkU:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=Qbd6V55k2qg:5RfptAP8QkU:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=Qbd6V55k2qg:5RfptAP8QkU:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/Qbd6V55k2qg" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/gorilla-s-hum-is-a-do-not-disturb-sign/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Bill Gates Wants a Miracle</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/PCZS3RDPslA/</link>
+      <guid isPermaLink="false">F6840EB2-9F0D-4B50-9AF8841AE4522BBB</guid>
+      <pubDate>Thu, 25 Feb 2016 21:38:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/B8B96EE0-ABFF-46E9-B175ACE65D1D36FC.jpg" fileSize="4491667" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:credit type="html"><![CDATA[Getty Images/iStockphoto/Thinkstock Images (MARS)]]></media:credit>
+      </media:content>
+      <dc:creator>David Biello</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=D4BEE7C6-70B3-4F82-AA76B319586207D4" length="" type="audio/mpeg" />
+      <category>Public Health</category>
+      <category>Sustainability</category>
+      <category>Climate</category>
+      <category>Conservation</category>
+      <category>EARTH</category>
+      <category>Environment</category>
+      <category>Tech</category>
+      <category>Energy</category>
+      <category>The Sciences</category>
+      <category>Policy &amp; Ethics</category>
+      <description>
+        Scientific American's energy and environment editor, David Biello, met with Bill Gates on February 22 to discuss tackling carbon emissions while at the same time making necessary energy available to...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=PCZS3RDPslA:33hv1lb9pdE:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=PCZS3RDPslA:33hv1lb9pdE:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=PCZS3RDPslA:33hv1lb9pdE:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=PCZS3RDPslA:33hv1lb9pdE:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=PCZS3RDPslA:33hv1lb9pdE:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=PCZS3RDPslA:33hv1lb9pdE:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=PCZS3RDPslA:33hv1lb9pdE:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=PCZS3RDPslA:33hv1lb9pdE:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/PCZS3RDPslA" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/bill-gates-wants-a-miracle/</feedburner:origLink>
+    </item>
+    <item>
+      <title>From AI to Zika: AAAS Conference Highlights</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/IHajgRqvRJc/</link>
+      <guid isPermaLink="false">C658B5AC-7FD2-4A3C-B5BAE5594173FDC7</guid>
+      <pubDate>Tue, 16 Feb 2016 21:44:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/3586C0FA-16C6-47AD-8B62ADE259998D25.jpg" fileSize="1533790" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:credit type="html"><![CDATA[<em>Getty Images/iStockphoto Thinkstock Images </em>(MARS)]]></media:credit>
+      </media:content>
+      <dc:creator>Mark Fischetti</dc:creator>
+      <dc:creator>Dina Fine Maron</dc:creator>
+      <dc:creator>Seth Fletcher</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=A1827713-1BC4-46C6-879C4456E20EFA41" length="" type="audio/mpeg" />
+      <category>Health</category>
+      <category>Public Health</category>
+      <category>Sustainability</category>
+      <category>Climate</category>
+      <category>Environment</category>
+      <category>Tech</category>
+      <category>Computing</category>
+      <category>The Sciences</category>
+      <category>Biology</category>
+      <category>Physics</category>
+      <category>Space</category>
+      <description>
+        Scientific American editors Mark Fischetti, Dina Maron and Seth Fletcher talk about the info they picked up at the just-concluded annual meeting of the American Association for the Advancement of...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=IHajgRqvRJc:bPlJI8kaA-Q:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=IHajgRqvRJc:bPlJI8kaA-Q:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=IHajgRqvRJc:bPlJI8kaA-Q:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=IHajgRqvRJc:bPlJI8kaA-Q:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=IHajgRqvRJc:bPlJI8kaA-Q:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=IHajgRqvRJc:bPlJI8kaA-Q:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=IHajgRqvRJc:bPlJI8kaA-Q:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=IHajgRqvRJc:bPlJI8kaA-Q:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/IHajgRqvRJc" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/from-ai-to-zika-aaas-conference-highlights/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Gravitational Waves Found: Kip Thorne Explains</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/ZK6EQVHhxPI/</link>
+      <guid isPermaLink="false">B4BBBFAA-1B6E-446D-B1DA243617D87D45</guid>
+      <pubDate>Fri, 12 Feb 2016 03:12:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/2B224FC8-7295-41E0-B2F2F7D8126A39D5.jpeg" fileSize="207523" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:description type="html"><![CDATA[The Laser Interferometer Gravitational-Wave Observatory (LIGO) has discovered ripples in space-time created by merging black holes.<br />]]></media:description>
+        <media:credit type="html"><![CDATA[<i>Caltech</i>]]></media:credit>
+      </media:content>
+      <dc:creator>Josh Fischman</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=A80F83C0-747A-42EE-B17E43CA3D9B7E6E" length="" type="audio/mpeg" />
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Physics</category>
+      <category>Space</category>
+      <description>
+        Scientific American's Josh Fischman talks with renowned astrophysicist and general relativity expert Kip Thorne about the discovery of gravitational waves by the LIGO Project, co-founded by...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=ZK6EQVHhxPI:oy_4I5A-Lkw:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=ZK6EQVHhxPI:oy_4I5A-Lkw:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=ZK6EQVHhxPI:oy_4I5A-Lkw:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=ZK6EQVHhxPI:oy_4I5A-Lkw:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=ZK6EQVHhxPI:oy_4I5A-Lkw:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=ZK6EQVHhxPI:oy_4I5A-Lkw:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=ZK6EQVHhxPI:oy_4I5A-Lkw:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=ZK6EQVHhxPI:oy_4I5A-Lkw:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/ZK6EQVHhxPI" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/gravitational-waves-found-kip-thorne-explains/</feedburner:origLink>
+    </item>
+    <item>
+      <title>The Big Gath Dig: Goliath's Hometown</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/AeQndIcimvs/</link>
+      <guid isPermaLink="false">635646B6-91F8-4E93-B371F575F7A30BF9</guid>
+      <pubDate>Wed, 10 Feb 2016 21:50:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/69092A53-E213-4003-A6B0CFA9768DBA60.jpg" fileSize="2208897" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:description type="html"><![CDATA[Archaeologist Aren Maeir of Bar-Ilan University in Israel, at excavations near the entrance to the ancient city of Gath, reputedly Goliath&rsquo;s hometown]]></media:description>
+        <media:credit type="html"><![CDATA[Kevin Begos]]></media:credit>
+      </media:content>
+      <dc:creator>Kevin Begos</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=92CB5FB2-BF05-4282-BCBBB0FE5682024A" length="" type="audio/mpeg" />
+      <category>Behavior &amp; Society</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <description>
+        Freelance journalist Kevin Begos talks with archaeologist Aren Maeir, from Bar Ilan University in Israel, at his dig site in Gath, thought to be Goliath's hometown and a major city of the Philistine...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=AeQndIcimvs:mTeDsxj8_TE:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=AeQndIcimvs:mTeDsxj8_TE:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=AeQndIcimvs:mTeDsxj8_TE:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=AeQndIcimvs:mTeDsxj8_TE:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=AeQndIcimvs:mTeDsxj8_TE:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=AeQndIcimvs:mTeDsxj8_TE:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=AeQndIcimvs:mTeDsxj8_TE:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=AeQndIcimvs:mTeDsxj8_TE:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/AeQndIcimvs" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/the-big-gath-dig-goliath-s-hometown/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Roman Sanitation Didn't Stop Roaming Parasites</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/8TSRoCvqlz4/</link>
+      <guid isPermaLink="false">F26F08AE-72EA-4CDA-90200FACB9A53459</guid>
+      <pubDate>Wed, 13 Jan 2016 03:07:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/DC10BDFD-A583-48EE-84D5B4C636277898.jpg" fileSize="2227247" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:description type="html"><![CDATA[Roman latrines from Lepcis Magna in Libya]]></media:description>
+        <media:credit type="html"><![CDATA[Craig Taylor]]></media:credit>
+      </media:content>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=EBC133E2-3196-411C-8B09B90F4FB76154" length="" type="audio/mpeg" />
+      <category>Health</category>
+      <category>Public Health</category>
+      <category>Behavior &amp; Society</category>
+      <category>Environment</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Biology</category>
+      <category>Evolution</category>
+      <category>Policy &amp; Ethics</category>
+      <description>
+        The University of Cambridge's Piers Mitchell, author of the 2015 book Sanitation, Latrines and Intestinal Parasites in Past Populations, talks about the counterintuitive findings in his recent paper...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=8TSRoCvqlz4:588txMbh97o:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=8TSRoCvqlz4:588txMbh97o:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=8TSRoCvqlz4:588txMbh97o:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=8TSRoCvqlz4:588txMbh97o:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=8TSRoCvqlz4:588txMbh97o:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=8TSRoCvqlz4:588txMbh97o:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=8TSRoCvqlz4:588txMbh97o:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=8TSRoCvqlz4:588txMbh97o:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/8TSRoCvqlz4" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/roman-sanitation-didn-t-stop-roaming-parasites/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Evolution Still on Trial 10 Years after Dover</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/EIJLoXOEAko/</link>
+      <guid isPermaLink="false">91C69D0E-46A2-4692-9377B8B7596E9ABF</guid>
+      <pubDate>Sun, 20 Dec 2015 05:01:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/13022426-A186-40AA-B218F3C2BDB7788B.jpg" fileSize="834534" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:credit type="html"><![CDATA[<em>FANCY </em>(MARS)]]></media:credit>
+      </media:content>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=7B1A72C9-6220-4BFF-AED088785B033957" length="" type="audio/mpeg" />
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Biology</category>
+      <category>Evolution</category>
+      <description>
+        Evolutionary biologist Nicholas Matzke talks about the Kitzmiller v. Dover evolution trial on the 10th anniversary of the decision. He advised the plaintiffs while working for the National Center for...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EIJLoXOEAko:P_O4fi5vL_Y:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EIJLoXOEAko:P_O4fi5vL_Y:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EIJLoXOEAko:P_O4fi5vL_Y:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EIJLoXOEAko:P_O4fi5vL_Y:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=EIJLoXOEAko:P_O4fi5vL_Y:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EIJLoXOEAko:P_O4fi5vL_Y:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EIJLoXOEAko:P_O4fi5vL_Y:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EIJLoXOEAko:P_O4fi5vL_Y:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/EIJLoXOEAko" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/evolution-still-on-trial-10-years-after-dover/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Lifting the Visor on Virtual Reality</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/TF0CSzjCsKk/</link>
+      <guid isPermaLink="false">11446E64-9881-458D-AC286B4036BC6DA8</guid>
+      <pubDate>Tue, 15 Dec 2015 23:55:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/D7250AE0-DE81-42E6-B4171B187F9ECE2E.jpg" fileSize="69638" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+      </media:content>
+      <dc:creator>Larry Greenemeier</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=A926D516-1279-4297-8AA881A747B47E7C" length="" type="audio/mpeg" />
+      <category>The Body</category>
+      <category>Mind</category>
+      <category>Behavior &amp; Society</category>
+      <category>Cognition</category>
+      <category>Tech</category>
+      <category>Computing</category>
+      <category>Electronics</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <description>
+        Ken Perlin, a New York University computer science professor and virtual reality pioneer, talks with Scientific American tech editor Larry Greenemeier about the state of virtual reality, its history...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=TF0CSzjCsKk:XpEk6cPgiUE:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=TF0CSzjCsKk:XpEk6cPgiUE:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=TF0CSzjCsKk:XpEk6cPgiUE:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=TF0CSzjCsKk:XpEk6cPgiUE:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=TF0CSzjCsKk:XpEk6cPgiUE:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=TF0CSzjCsKk:XpEk6cPgiUE:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=TF0CSzjCsKk:XpEk6cPgiUE:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=TF0CSzjCsKk:XpEk6cPgiUE:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/TF0CSzjCsKk" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/lifting-the-visor-on-virtual-reality/</feedburner:origLink>
+    </item>
+    <item>
+      <title>The Epic History of the Horse</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/pC6_jrUzUws/</link>
+      <guid isPermaLink="false">68A3C3EB-B7EC-48AE-ADC907AA1E8D6C1A</guid>
+      <pubDate>Fri, 11 Dec 2015 00:51:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/AE583620-5686-44FF-A2D313C7A236FBD4.jpg" fileSize="1717585" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:credit type="html"><![CDATA[<em>&copy; Stockbyte Royalty Free Photos</em> (MARS)]]></media:credit>
+      </media:content>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <dc:creator>Wendy Williams</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=211B8EEE-239D-4E58-9E3C74E71E962481" length="" type="audio/mpeg" />
+      <category>Behavior &amp; Society</category>
+      <category>Cognition</category>
+      <category>Conservation</category>
+      <category>Environment</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Biology</category>
+      <category>Evolution</category>
+      <description>
+        Science journalist and equestrian Wendy Williams talks about her new book The Horse: The Epic History of Our Noble Companion
+
+        &amp;nbsp;&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=pC6_jrUzUws:fTdXz_KI_qo:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=pC6_jrUzUws:fTdXz_KI_qo:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=pC6_jrUzUws:fTdXz_KI_qo:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=pC6_jrUzUws:fTdXz_KI_qo:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=pC6_jrUzUws:fTdXz_KI_qo:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=pC6_jrUzUws:fTdXz_KI_qo:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=pC6_jrUzUws:fTdXz_KI_qo:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=pC6_jrUzUws:fTdXz_KI_qo:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/pC6_jrUzUws" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/the-epic-history-of-the-horse/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Math Can Equal Fun</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/bOOVymSXhbc/</link>
+      <guid isPermaLink="false">A6C84CC0-3C15-4204-9BE4E184070A2C06</guid>
+      <pubDate>Sat, 21 Nov 2015 01:15:00 GMT</pubDate>
+
+      <media:content url="http://www.scientificamerican.com/sciam/cache/file/1909D0FB-87F2-4E63-9FC3C5F2390D8C00.jpg" fileSize="1008937" imageMimeTyp="image/jpeg" expression="full" width="790" height="496">
+        <media:credit type="html"><![CDATA[Basic Books]]></media:credit>
+      </media:content>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=2E31B168-D0EE-4E9A-B692E4BBA1C50F4C" length="" type="audio/mpeg" />
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Math</category>
+      <description>
+        Harvey Mudd College math professor Arthur Benjamin talks about his new book The Magic of Math: Solving for x and Figuring Out Why
+
+        &amp;nbsp;&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=bOOVymSXhbc:dlnf4yjjs4M:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=bOOVymSXhbc:dlnf4yjjs4M:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=bOOVymSXhbc:dlnf4yjjs4M:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=bOOVymSXhbc:dlnf4yjjs4M:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=bOOVymSXhbc:dlnf4yjjs4M:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=bOOVymSXhbc:dlnf4yjjs4M:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=bOOVymSXhbc:dlnf4yjjs4M:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=bOOVymSXhbc:dlnf4yjjs4M:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/bOOVymSXhbc" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/math-can-equal-fun/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Teaching Machines to Learn on Their Own</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/M5Z6qQ7PteQ/</link>
+      <guid isPermaLink="false">99BBDA19-8DB4-447C-B950AE620AADF94E</guid>
+      <pubDate>Tue, 10 Nov 2015 17:47:00 GMT</pubDate>
+
+      <dc:creator>Larry Greenemeier</dc:creator>
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=7BB57A29-89B7-4048-BD828EA500957C3C" length="" type="audio/mpeg" />
+      <category>Mind</category>
+      <category>Behavior &amp; Society</category>
+      <category>Tech</category>
+      <category>Computing</category>
+      <category>Electronics</category>
+      <category>Engineering</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <description>
+        Stephen Hoover, CEO of Xerox&amp;rsquo;s Palo Alto Research Center, talks with Scientific American tech editor Larry Greenemeier about the revolution underway in machine learning, in which the machine...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=M5Z6qQ7PteQ:tB_v7pI5oYQ:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=M5Z6qQ7PteQ:tB_v7pI5oYQ:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=M5Z6qQ7PteQ:tB_v7pI5oYQ:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=M5Z6qQ7PteQ:tB_v7pI5oYQ:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=M5Z6qQ7PteQ:tB_v7pI5oYQ:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=M5Z6qQ7PteQ:tB_v7pI5oYQ:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=M5Z6qQ7PteQ:tB_v7pI5oYQ:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=M5Z6qQ7PteQ:tB_v7pI5oYQ:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/M5Z6qQ7PteQ" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/teaching-machines-to-learn-on-their-own/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Chemistry Nobel: Keeping DNA in Good Repair</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/GipmjobDuas/</link>
+      <guid isPermaLink="false">16474A2F-1C8C-4CAC-A701A3EEBA3723DD</guid>
+      <pubDate>Wed, 07 Oct 2015 22:18:00 GMT</pubDate>
+
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=67FEAA9D-FA13-4E24-B67F166B028006A2" length="" type="audio/mpeg" />
+      <category>Health</category>
+      <category>Medicine</category>
+      <category>Pharmaceuticals</category>
+      <category>The Body</category>
+      <category>The Sciences</category>
+      <category>Biology</category>
+      <category>Chemistry</category>
+      <category>Evolution</category>
+      <description>
+        The 2015 Nobel Prize in Chemistry goes to Tomas Lindahl, Paul Modrich and Aziz Sancar for discoveries of the mechanisms by which cells maintain the integrity of their DNA sequences
+
+        &amp;nbsp;&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=GipmjobDuas:xtESSn2-P30:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=GipmjobDuas:xtESSn2-P30:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=GipmjobDuas:xtESSn2-P30:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=GipmjobDuas:xtESSn2-P30:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=GipmjobDuas:xtESSn2-P30:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=GipmjobDuas:xtESSn2-P30:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=GipmjobDuas:xtESSn2-P30:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=GipmjobDuas:xtESSn2-P30:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/GipmjobDuas" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/chemistry-nobel-keeping-dna-in-good-repair/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Physics Nobel: Neutrinos &lt;i&gt;Do&lt;/i&gt; Have Mass</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/EVViYvfIjZU/</link>
+      <guid isPermaLink="false">236627DE-CB87-427B-929D425379AD64C6</guid>
+      <pubDate>Tue, 06 Oct 2015 15:39:00 GMT</pubDate>
+
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=D63159A8-8AFE-465C-B4665FDBEC601903" length="" type="audio/mpeg" />
+      <category>The Sciences</category>
+      <category>Physics</category>
+      <category>Space</category>
+      <category>Astrophysics</category>
+      <category>Cosmology</category>
+      <description>
+        The 2015 Nobel Prize in Physics goes to Takaaki Kajita and Arthur B. McDonald for the discovery of neutrino oscillations, which shows that neutrinos have mass&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EVViYvfIjZU:pf7UfyqCrus:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EVViYvfIjZU:pf7UfyqCrus:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EVViYvfIjZU:pf7UfyqCrus:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EVViYvfIjZU:pf7UfyqCrus:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=EVViYvfIjZU:pf7UfyqCrus:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EVViYvfIjZU:pf7UfyqCrus:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EVViYvfIjZU:pf7UfyqCrus:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=EVViYvfIjZU:pf7UfyqCrus:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/EVViYvfIjZU" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/physics-nobel-neutrinos-do-have-mass/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Medicine Nobel: Sifting Nature for Antiparasite Drugs</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/imkmWODw1Xw/</link>
+      <guid isPermaLink="false">EEC143E0-2520-4A57-84D96E0B3CA831F7</guid>
+      <pubDate>Mon, 05 Oct 2015 16:52:00 GMT</pubDate>
+
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=9C613F4F-0D0D-4C31-93175AD21BB0EE7E" length="" type="audio/mpeg" />
+      <category>Health</category>
+      <category>Medicine</category>
+      <category>Pharmaceuticals</category>
+      <category>Public Health</category>
+      <category>Medical &amp; Biotech</category>
+      <category>The Sciences</category>
+      <category>Biology</category>
+      <category>Chemistry</category>
+      <category>Society &amp; Policy</category>
+      <description>
+        The 2015 Nobel Prize in Physiology or Medicine goes to William C. Campbell and Satoshi Ōmura for their discoveries of a medication against roundworm parasites and to Youyou Tu for her discoveries...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=imkmWODw1Xw:YOtvEP8rF6g:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=imkmWODw1Xw:YOtvEP8rF6g:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=imkmWODw1Xw:YOtvEP8rF6g:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=imkmWODw1Xw:YOtvEP8rF6g:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=imkmWODw1Xw:YOtvEP8rF6g:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=imkmWODw1Xw:YOtvEP8rF6g:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=imkmWODw1Xw:YOtvEP8rF6g:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=imkmWODw1Xw:YOtvEP8rF6g:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/imkmWODw1Xw" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/medicine-nobel-sifting-nature-for-antiparasite-drugs/</feedburner:origLink>
+    </item>
+    <item>
+      <title>The Hunt for the Fat Gene</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/L3B4B7MJTi8/</link>
+      <guid isPermaLink="false">5AA409B2-8A1B-4DDA-BA34E109AD7555FC</guid>
+      <pubDate>Wed, 16 Sep 2015 20:40:00 GMT</pubDate>
+
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=879E90FA-F49D-41EC-9440186347799E78" length="" type="audio/mpeg" />
+      <category>Health</category>
+      <category>Medicine</category>
+      <category>The Body</category>
+      <category>The Sciences</category>
+      <category>Biology</category>
+      <category>Evolution</category>
+      <description>
+        Medical researcher Richard Johnson, of the University of Colorado Anschutz Medical Campus, talks about his October Scientific American article &amp;quot;The Fat Gene,&amp;quot; co-authored by anthropologist...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=L3B4B7MJTi8:0rKBnHZtDKg:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=L3B4B7MJTi8:0rKBnHZtDKg:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=L3B4B7MJTi8:0rKBnHZtDKg:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=L3B4B7MJTi8:0rKBnHZtDKg:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=L3B4B7MJTi8:0rKBnHZtDKg:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=L3B4B7MJTi8:0rKBnHZtDKg:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=L3B4B7MJTi8:0rKBnHZtDKg:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=L3B4B7MJTi8:0rKBnHZtDKg:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/L3B4B7MJTi8" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/the-hunt-for-the-fat-gene/</feedburner:origLink>
+    </item>
+    <item>
+      <title>The Errors of Albert</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/1QyTO9ESKKc/</link>
+      <guid isPermaLink="false">B0F3ABB8-0626-4227-BEDCB327FAC961B8</guid>
+      <pubDate>Wed, 02 Sep 2015 21:44:00 GMT</pubDate>
+
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=0CE355FC-8C44-4BD1-876FB3A58AA37D1F" length="" type="audio/mpeg" />
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Math</category>
+      <category>Physics</category>
+      <category>Space</category>
+      <description>
+        Physicist and cosmologist Lawrence Krauss, director of the Origins Project at Arizona State University, talks about his article &amp;quot;What Einstein Got Wrong,&amp;quot; in Scientific American&amp;rsquo;s...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=1QyTO9ESKKc:tABPElsf7zA:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=1QyTO9ESKKc:tABPElsf7zA:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=1QyTO9ESKKc:tABPElsf7zA:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=1QyTO9ESKKc:tABPElsf7zA:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=1QyTO9ESKKc:tABPElsf7zA:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=1QyTO9ESKKc:tABPElsf7zA:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=1QyTO9ESKKc:tABPElsf7zA:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=1QyTO9ESKKc:tABPElsf7zA:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/1QyTO9ESKKc" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/the-errors-of-albert/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Public Health Hero Jimmy Carter; &lt;i&gt;SA&lt;/i&gt; Turns 170</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/wttN_SwJMY0/</link>
+      <guid isPermaLink="false">663F1E54-D570-43CD-92DBF04B23E501D0</guid>
+      <pubDate>Mon, 31 Aug 2015 20:07:00 GMT</pubDate>
+
+      <dc:creator>Steve Mirsky</dc:creator>
+      <dc:creator>Mariette DiChristina</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=413AECF1-D790-4D6E-BA5D7370825D2BC8" length="" type="audio/mpeg" />
+      <category>Health</category>
+      <category>Public Health</category>
+      <category>Wellness</category>
+      <category>Mind</category>
+      <category>Behavior &amp; Society</category>
+      <category>Mental Health</category>
+      <category>Neuroscience</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Policy &amp; Ethics</category>
+      <description>
+        Jimmy Carter talks about his public health efforts to eradicate guinea worm and improve global mental health and women's health. Plus, magazine collector Steven Lomazow brings part of his collection...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=wttN_SwJMY0:kQ_sIKjxf10:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=wttN_SwJMY0:kQ_sIKjxf10:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=wttN_SwJMY0:kQ_sIKjxf10:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=wttN_SwJMY0:kQ_sIKjxf10:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=wttN_SwJMY0:kQ_sIKjxf10:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=wttN_SwJMY0:kQ_sIKjxf10:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=wttN_SwJMY0:kQ_sIKjxf10:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=wttN_SwJMY0:kQ_sIKjxf10:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/wttN_SwJMY0" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/public-health-hero-jimmy-carter-sa-turns-170/</feedburner:origLink>
+    </item>
+    <item>
+      <title>Olympics Loser Boston Wins Big Economically</title>
+      <link>http://rss.sciam.com/~r/sciam/science-talk/~3/36FKo63ylpE/</link>
+      <guid isPermaLink="false">89530436-EDC0-4B4D-AFC74FAA81559798</guid>
+      <pubDate>Thu, 06 Aug 2015 14:21:00 GMT</pubDate>
+
+      <dc:creator>Steve Mirsky</dc:creator>
+      <enclosure url="http://www.scientificamerican.com/podcast/podcast.mp3?fileId=FD01D4BA-C7E2-4711-93168D94930460A0" length="" type="audio/mpeg" />
+      <category>Sustainability</category>
+      <category>Environment</category>
+      <category>The Sciences</category>
+      <category>Arts &amp; Culture</category>
+      <category>Policy &amp; Ethics</category>
+      <description>
+        Smith College sports economist Andrew Zimbalist talks about why the Olympics is almost always a big financial hardship for the host city, a subject he treats at length in his book Circus Maximus: The...&lt;br/&gt;
+        &lt;br/&gt;
+        -- Read more on ScientificAmerican.com&lt;div class="feedflare"&gt;
+        &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=36FKo63ylpE:_Oi-q3S1a-o:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=36FKo63ylpE:_Oi-q3S1a-o:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=36FKo63ylpE:_Oi-q3S1a-o:l6gmwiTKsz0"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=l6gmwiTKsz0" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=36FKo63ylpE:_Oi-q3S1a-o:gIN9vFwOqvQ"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?i=36FKo63ylpE:_Oi-q3S1a-o:gIN9vFwOqvQ" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=36FKo63ylpE:_Oi-q3S1a-o:ZC7T4KBF6Nw"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=ZC7T4KBF6Nw" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=36FKo63ylpE:_Oi-q3S1a-o:I9og5sOYxJI"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=I9og5sOYxJI" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://rss.sciam.com/~ff/sciam/science-talk?a=36FKo63ylpE:_Oi-q3S1a-o:QXVau8BzmBE"&gt;&lt;img src="http://feeds.feedburner.com/~ff/sciam/science-talk?d=QXVau8BzmBE" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+        &lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/sciam/science-talk/~4/36FKo63ylpE" height="1" width="1" alt=""/&gt;
+      </description>
+      <feedburner:origLink>http://www.scientificamerican.com/podcast/episode/olympics-loser-boston-wins-big-economically/</feedburner:origLink>
+    </item>
+  </channel>
+</rss>
